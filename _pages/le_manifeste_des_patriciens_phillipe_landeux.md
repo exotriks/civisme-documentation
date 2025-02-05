@@ -1,5 +1,9 @@
 ---
-title: LE MANIFESTE DES PATRICIENS
+title: Le Manifeste des Patriciens
+author: Philippe Landeux
+date: 2011-01-01
+language: fr
+layout: post
 ---
 
 # MANIFESTE DES PATRICIENS
