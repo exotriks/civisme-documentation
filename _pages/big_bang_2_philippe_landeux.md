@@ -2,8 +2,6 @@
 title: Big Bang 2
 author: Philippe Landeux
 date: 2020-01-01
-description: La Cité et l’Égalité sont aujourd’hui une réalité et une évidence. Largent et la monnaie sont inconcevables et incompréhensibles. Les Citoyens vivent naturellement selon les Principes de l’ordre social et n’arrivent pas à croire que leurs ancêtres aient pu vivre autrement durant des millénaires ; ils ne peuvent imaginer la tyrannie qu’ils subissaient et, moins encore, le tyran qui régnait ; ils pensent que s’en libérer est allé de soi ; ils ne mesurent pas le courage, l’énergie, le génie qu’il a fallu pour y parvenir. Et pourtant, le passage du capitalisme au Civisme a été un second Big Bang ; il a tranché en deux le cours de l’histoire de l’Humanité : avant l’Égalité et après Largent.
-keywords: civism, civic card, civisme, carte civique
 language: fr
 layout: post
 ---
