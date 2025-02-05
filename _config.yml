@@ -68,6 +68,9 @@ ordered_collections:
 
 page_width: 800px
 
+include:
+  - assets
+
 destination:      ./_site
 incremental:      false
 regenerate:       true
