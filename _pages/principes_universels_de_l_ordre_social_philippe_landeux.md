@@ -6,7 +6,7 @@ language: fr
 layout: post
 ---
 
-![Principes Universels](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
+![Couverture - Principes Universels de l'ordre Social- verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
 
 # PRINCIPES UNIVERSELS DE L’ORDRE SOCIAL OU BASES DE LA SOCIÉTÉ À USAGE UNIVERSEL - Philippe Landeux
 
