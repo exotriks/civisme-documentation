@@ -114,7 +114,7 @@ La raison est simple : en ce qui concerne les devoirs, un devoir fondamental es
 Sans trop anticiper, signalons dès à présent que la Propriété ou le droit de posséder existe (de par la Société) et doit être reconnu, mais est un droit particulier auquel, en vertu de ce que nous venons de dire, l’Égalité ne s’applique pas. La Propriété, d’un point de vue individuel, porte sur des biens produits pour soi-même ou acquis à des fins personnelles. Dans le cas d’une production individuelle pour un usage personnel, il est évident que les productions — sur lesquelles le droit de propriété n’est pas fondé sur le travail fourni, mais sur la possession non contestée ou antérieurement reconnue des matériaux utilisés — varient en nature, qualité et quantité d’un individu à un autre, de sorte que la notion d’Égalité n’a pas de sens. Même constat lorsque les individus échangent entre eux des biens qu’ils possèdent et opèrent ainsi des transferts de droit de propriété qui ne changent rien au final. Dans le cas des acquisitions, le droit de propriété sur les biens résulte de l’exercice d’un autre droit, un droit indirect (l’accès au marché), et est donc bien un droit particulier auquel l’Égalité ne s’applique pas par définition. Non seulement l’égalité en droits (système égalitaire) n’est pas l’égalité en biens (système égalitariste), mais la Liberté en condamne même le principe autant que la nature des choses la rend à jamais impossible. Ainsi, la Propriété n’est pas un droit fondamental comme l’affirment les bourgeois, pas plus que les propriétés ne sont susceptibles d’égalisation comme le voudraient les communistes.
 
 
-## IV. De la Liberté
+## 4. De la Liberté
 
 Nous avons évoqué à plusieurs reprises la notion de Liberté. Cette notion, comme celle de Sécurité, est intrinsèque à l’acte d’association politique.
 
@@ -145,7 +145,7 @@ ART. 30 — La Liberté étant l’ensemble des libertés connues et reconnues d
 La Liberté qui est un droit fondamental, à l’instar de la Sécurité, est subordonnée à l’Égalité qui est le Principe fondamental de l’ordre social. Loin d’être contraires, il ne peut y avoir l’une sans l’autre. Sans Égalité, il n’y a plus de Citoyens, plus de Société, et la « Liberté » n’est que la loi du plus fort sous une forme ou une autre : sans Liberté, la Société n’est plus une libre association mais une prison pour la masse, un cheptel pour des privilégiés, et « l’Égalité » sur quelque plan que ce soit est au mieux un slogan.
 
 
-## V. Participer à la vie de la Cité / Profiter des bienfaits de la Cité
+## 5. Participer à la vie de la Cité / Profiter des bienfaits de la Cité
 
 Plus des Citoyens sont nombreux, plus une Société est puissante, plus la Sécurité est grande, moins les attaques extérieures sont à redouter, moins les Citoyens ont l’occasion de remplir leur premier devoir qui est de défendre la Cité et leurs Concitoyens. La Citoyenneté ne peut donc plus reposer sur l’accomplissement de ce seul devoir ; elle doit être conférée par autre chose.
 
@@ -180,7 +180,7 @@ ART. 41 — Le partage équitable du produit général ou collectif convient aux
 ART. 42 — Le droit d’accéder au marché découle de celui fondamental de profiter des bienfaits de la Cité ; c’est donc un droit indirect, un droit conféré par la Citoyenneté dont tous les Citoyens doivent jouir également, un droit qui n’a d’autres bornes que les besoins, les goûts et les envies du Citoyen qui l’exerce, le respect des droits d’autrui, l’exercice par les autres Citoyens de ce même droit, la nature des choses et éventuellement la loi, elle aussi égale pour tous.
 
 
-## VI. De la Propriété
+## 6. De la Propriété
 
 Les animaux sont des êtres physiques. Ils ont des besoins concrets que seules des choses matérielles peuvent assouvir. Ces choses, périssables ou durables, à usage individuel ou collectif, peuvent être trouvées dans la nature ou fabriquées par un individu ou un groupe. La question est de savoir ce que sont ces diverses choses du point de vue du droit, sachant que, dans tous les cas, elles ne peuvent être des objets de droit que dans le cadre d’une Société.
 
@@ -221,7 +221,7 @@ ART. 54 — Les portions de sol que la Cité confie à ses Citoyens à quelque f
 ART. 55 — Les ressources naturelles du sol et du sous-sols de la Cité sont de même sa propriété et ne peuvent être exploitées qu’avec son accord et dans l’intérêt général : leur exploitation ne procure aux exploitants d’autre avantage que la Citoyenneté, c’est-à-dire les droits du Citoyen.
 
 
-## VII. Des lois & de la Démocratie
+## 7. Des lois & de la Démocratie
 
 La Cité est une libre association politique (association dans le but initial de survivre) entre Citoyens égaux en devoirs et en droits. L’Égalité est la clé de voûte de l’édifice social ; la Sécurité et la Liberté en sont le ciment. 
 
@@ -264,7 +264,7 @@ ART. 70 — Toute Société, tout système égalitaire est par nature démocrati
 [^13]: Une Société digne de ce nom est par nature égalitaire et démocratique. La Société, l’Égalité et la démocratie (authentique) sont des notions indissociables ; l’une ne peut exister sans les autres. Les expressions « société égalitaire » et « société démocratique » sont des pléonasmes comme « justice sociale » ou « arbre en bois ». A l’inverse « société inégalitaire », « société individualiste » sont des oxymores. Dans ces cas, il ne faut pas parler de société mais de système ou de concentration d’individus.
 
 
-## VIII. Citoyenneté / Nationalité
+## 8. Citoyenneté / Nationalité
 
 Les lois doivent avant tout satisfaire les intérêts de la Cité et doivent être ratifiées par les Citoyens qu’elles vont régir.
 
@@ -297,7 +297,7 @@ ART. 80 — Quoique n’étant pas l’œuvre de l’ensemble des Citoyens, les 
 ART. 81 — A moins d’être iniques, les lois ne peuvent distinguer les Citoyens nationaux des Citoyens ordinaires que pour des objets relevant exclusivement de la Nationalité ; elles ne peuvent réserver aux Citoyens nationaux des droits qui sont le pendant des devoirs du Citoyen, qui sont donc attachés à la Citoyenneté et appartiennent par nature à tous les Citoyens.
 
 
-## IX. Gouvernement & régime politique
+## 9. Gouvernement & régime politique
 
 
 Des Citoyens sont des individus ayant unis librement leurs forces pour accroître leurs chances de survie. Ils constituent un corps social qui, comme tout corps, a besoin d’une tête, d’un chef, pour réaliser l’unité [^16] et diriger la force collective dans l’intérêt de tous, en un mot pour gouverner.
@@ -355,7 +355,7 @@ Quand le pouvoir exécutif — entre les mains d’un homme ou d’un parti — 
 Quand le pouvoir législatif prévaut autant sur l’Exécutif que sur le Peuple dont il se réclame à tort ou à raison, ce qui n’est possible que dans l’inégalité et au milieu de classes, le système est une démocrature. Une démocrature n’est en définitive qu’une oligarchie astucieuse validée par un Peuple naïf. Que les prétendus représentants du Peuple soient élus, désignés ou autoproclamés, dès lors qu’ils parlent en son nom sans lui soumettre leurs décisions, il est clair qu’ils cherchent auprès de lui une caution qu’ils ne méritent pas. Ils ne sont pas le Peuple et entendent que chacun reste à sa place, eux et leurs pareils en haut. La démocrature la plus accomplie est bien sûr la démocratie strictement représentative qui, en permettant au Peuple de désigner à la fois le chef et les députés qui vont le bafouer en toute légalité (c’est eux qui font les lois), lui donne l’illusion d’être important et l’envie de défendre ce système « au nom de la démocratie ». Cela dit, autant un système strictement représentatif est antidémocratique, autant un système simplement représentatif, ne permettant pas aux mandataires du Peuple de s’en dire les représentants et de substituer leur volonté à la sienne, est démocratique d’un point de vue politique. Pourtant, même un système politiquement démocratique, difficile à atteindre dans l’inégalité, n’est pas une authentique démocratie, mais seulement la forme la moins perverse de démocrature. 
 
 
-## X. Définitions & conclusion
+## 10. Définitions & conclusion
 
 Cette étude, pour répondre à des questions précises, nous a entraînés bien plus loin que prévu. Il est en effet apparu que tout était lié et qu’une réponse simple, même sans être simpliste, serait lourde de sous-entendus et exposerait à des incompréhensions, des contresens, à toutes les interprétations farfelues et frauduleuses. Il fallait donc avoir une vision globale de l’ordre social pour cerner correctement les éléments et les paramètres particuliers de la Société. Mais cette vision globale, pour être juste et échapper aux passions, ne pouvait être un simple constat de ce qui est ou de ce qui fut ; elle ne pouvait procéder que d’une étude théorique et rigoureuse en partant de la forme de Société la plus basique et en allant toujours plus loin dans les développements logiques. Ce travail est fait. A l’avenir, toutes les questions sociales doivent être abordées de cette manière, voire s’appuyer directement sur ces conclusions, et beaucoup, dont les plus importantes, trouvent déjà leur réponse dans cet exposé.
 
@@ -393,4 +393,3 @@ Telles sont les véritables définitions de tous ces mots. Toutes font interveni
 Philippe Landeux
 
 6 novembre 2010
-
