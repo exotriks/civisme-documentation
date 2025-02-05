@@ -1,5 +1,9 @@
 ---
-title: REVOLUTION
+title: Révolution
+author: Philippe Landeux
+date: 2015-09-15
+language: fr
+layout: post
 ---
 
 # REVOLUTION - Les bases du Civisme - Philippe Landeux
