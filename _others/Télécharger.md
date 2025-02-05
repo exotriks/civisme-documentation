@@ -13,5 +13,3 @@ Téléchargez les ouvrages de Philippe Landeux dans différents formats
 [PDF](https://exotriks.github.io/civisme-documentation/assets/Principes%20Universels%20de%20l'Ordre%20Social%20-%20Philippe%20Landeux.pdf) [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/principes_universels_de_l_ordre_social_philippe_landeux.txt) [MD](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/principes_universels_de_l_ordre_social_philippe_landeux.md)
 [EPUB](https://raw.githubusercontent.com/exotriks/civisme-documentation/master/assets/Principes%20Universels%20De%20L'Ordre%20Social-Philippe%20Landeux.epub) [MOBI](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Principes%20Universels%20De%20L'Ordre%20Social-Philippe%20Landeux.mobi)
 
-<a href="https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/principes_universels_de_l_ordre_social_philippe_landeux.md" download>Download File</a>
-
