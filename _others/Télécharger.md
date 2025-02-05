@@ -5,7 +5,7 @@ date: 2025-02-05
 layout: post
 ---
 
-# :inbox_tray: Télécharger dans différents formats
+# :inbox_tray: Télécharger différents formats
 
 
 ![Couverture - Principes Universels de l'ordre Social- verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
