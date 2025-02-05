@@ -1,5 +1,9 @@
 ---
-title: LA PROPRIETE
+title: Théorie de la Propriété
+author: Philippe Landeux
+date: 2018-11-01
+language: fr
+layout: post
 ---
 
 # THEORIE DE LA PROPRIETE - PHILIPPE LANDEUX
