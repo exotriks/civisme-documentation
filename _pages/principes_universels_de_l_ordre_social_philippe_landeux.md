@@ -1,5 +1,9 @@
 ---
-title: PRINCIPES UNIVERSELS DE L’ORDRE SOCIAL
+title: Principes Universels de l'Ordre Social
+author: Philippe Landeux
+date: 2010-11-06
+language: fr
+layout: post
 ---
 
 # PRINCIPES UNIVERSELS DE L’ORDRE SOCIAL OU BASES DE LA SOCIÉTÉ À USAGE UNIVERSEL - Philippe Landeux
