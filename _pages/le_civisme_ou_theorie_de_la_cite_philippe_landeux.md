@@ -1,8 +1,9 @@
 ---
 title: Le Civisme ou Théorie de la Cité (Société sans argent)
 author: Philippe Landeux
+date: 2011-01-01
 language: fr
-layout: home
+layout: post
 ---
 
 # LE CIVISME OU THEORIE DE LA CITE (Société sans argent)-Philippe Landeux
