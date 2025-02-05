@@ -1,5 +1,9 @@
 ---
-title: REQUISITOIRE CONTRE LARGENT
+title: Réquisitoire contre Largent ou théorie de l'égalité
+author: Philippe Landeux
+date: 2011-06-01
+language: fr
+layout: post
 ---
 
 # Réquisitoire contre Largent ou théorie de l'égalité.
