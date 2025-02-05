@@ -8,6 +8,6 @@ layout: post
 Téléchargez les ouvrages de Philippe Landeux dans différents formats
 
 
-[Principes Universels](/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
+![Principes Universels](/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
 
 
