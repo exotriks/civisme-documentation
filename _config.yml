@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Civisme-docs
+longtitle:        Civisme-documentation
+author:           exotriks
+email:            civismebelgique@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Tous les ouvrages sur le Civisme de Philippe Landeux
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://exotriks.github.io/civisme-documentation/'
+baseurl:          '/civisme-documentation'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
