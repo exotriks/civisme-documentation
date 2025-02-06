@@ -1,11 +1,8 @@
 ---
 title: Civisme documentation
 permalink: /
-image: /assets/images/logo/png/logo-civism-250x250-white-Small.png
 layout: home
 ---
-
-![Logo](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/logo/png/logo-civism-250x250-white-Small.png)
 
 ## :inbox_tray: Librairie civique
 
