@@ -37,3 +37,11 @@ layout: post
 ![Couverture - Le Civisme ou Théorie de la Cité - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_requisitoire_contre_largent_philippe_landeux_recto_648x960.jpg)
 
 ## :inbox_tray: Télécharger Le Civisme ou Théorie de la Cité
+
+- :blue_book: [PDF](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Réquisitoire%20contre%20Largent%20-%20Philippe%20Landeux.pdf)
+- :page_facing_up: [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/requisitoire_contre_largent_philippe_landeux.txt)
+- :bookmark_tabs: [MD](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/requisitoire_contre_largent_philippe_landeux.md)
+- :scroll: [EPUB](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/Requisitoire%20contre%20Largent-Philippe%20Landeux.epub)
+
+
+
