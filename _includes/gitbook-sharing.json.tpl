@@ -4,11 +4,7 @@
                 "google": false,
 
                 "github": true,
-              {% if site.github_username %}
                 "github_link": "https://github.com/exotriks/civisme-documentation",
-              {% else %}
-                "github_link": "https://github.com/exotriks/civisme-documentation",
-              {% endif %}
 
                 "telegram": false,
                 "telegram_link": "https://t.me",
