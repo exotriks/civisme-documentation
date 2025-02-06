@@ -10,8 +10,6 @@ Cet espace contient tous les ouvrages essentiels sur le système post-monétaire
 
 Pour lire les ouvrages en ligne [cliquez ici](https://exotriks.github.io/civisme-documentation/)
 
-https://exotriks.github.io/civisme-documentation/
-
 - [Principes Universels De L'Ordre Social](https://exotriks.github.io/civisme-documentation/pages/principes_universels_de_l_ordre_social_philippe_landeux/)
 - [Le Civisme ou Théorie de la Cité](https://exotriks.github.io/civisme-documentation/pages/le_civisme_ou_theorie_de_la_cite_philippe_landeux/)
 - [Le manifeste des Patriciens](https://exotriks.github.io/civisme-documentation/pages/le_manifeste_des_patriciens_phillipe_landeux/)
@@ -20,18 +18,11 @@ https://exotriks.github.io/civisme-documentation/
 - [Théorie de la Propriété](https://exotriks.github.io/civisme-documentation/pages/theorie_de_la_propriete_philippe_landeux/)
 - [Big Bang 2](https://exotriks.github.io/civisme-documentation/pages/big_bang_2_philippe_landeux/)
 
-
 Pour téléchager les ouvrages scrollez vers le bas ou [cliquez ici](https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/)
-
-https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/
-
-
-
 
 ***
 
 ## :inbox_tray: Télécharger différents formats
-
 
 ![Couverture - Principes Universels de l'ordre Social- verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_principes_universels_de_l_ordre_social_philippe_landeux_recto_648x960.jpg "Principes Universels De L'Ordre Social - Philippe Landeux")
 
@@ -83,7 +74,6 @@ https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/
 - :blue_book: [PDF](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Théorie%20de%20la%20Propriété%20-%20Philippe%20Landeux.pdf)
 - :page_facing_up: [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/theorie_de_la_propriété_philippe_landeux.txt)
 - :bookmark_tabs: [MD](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/theorie_de_la_propriete_philippe_landeux.md)
-
 
 ![Couverture - Big Bang 2 - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_big_bang_2_philippe_landeux_recto_648x960.jpg)
 
