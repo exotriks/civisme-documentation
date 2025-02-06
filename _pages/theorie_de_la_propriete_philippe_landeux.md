@@ -6,6 +6,8 @@ language: fr
 layout: post
 ---
 
+![Couverture - Théorie de la Propriété - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_theorie_de_la_propriete_philippe_landeux_recto_648x960.jpg)
+
 # THEORIE DE LA PROPRIETE - PHILIPPE LANDEUX
 
 Auri sacra fames.
