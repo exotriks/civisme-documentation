@@ -5,6 +5,7 @@ permalink: /
 ---
 
 
+## :inbox_tray: Librairie civique
 
 Cet espace contient tous les ouvrages essentiels sur le système post-monétaire, appelé "Civisme", élaboré par Philippe Landeux.
 
@@ -12,8 +13,16 @@ Pour lire les ouvrages en ligne [cliquez ici](https://exotriks.github.io/civisme
 
 https://exotriks.github.io/civisme-documentation/
 
+- [Principes Universels De L'Ordre Social](https://exotriks.github.io/civisme-documentation/pages/principes_universels_de_l_ordre_social_philippe_landeux/)
+- [Le Civisme ou Théorie de la Cité](https://exotriks.github.io/civisme-documentation/pages/le_civisme_ou_theorie_de_la_cite_philippe_landeux/)
+- [Le manifeste des Patriciens](https://exotriks.github.io/civisme-documentation/pages/le_manifeste_des_patriciens_phillipe_landeux/)
+- [Réquisitoire contre Largent](https://exotriks.github.io/civisme-documentation/pages/requisitoire_contre_largent_philippe_landeux/)
+- [Révolution](https://exotriks.github.io/civisme-documentation/pages/revolution_phillipe_landeux/)
+- [Théorie de la Propriété](https://exotriks.github.io/civisme-documentation/pages/theorie_de_la_propriete_philippe_landeux/)
+- [Big Bang 2](https://exotriks.github.io/civisme-documentation/pages/big_bang_2_philippe_landeux/)
 
-Pour téléchager les ouvrages scrollez vers le bas ou [ciquez ici](https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/)
+
+Pour téléchager les ouvrages scrollez vers le bas ou [cliquez ici](https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/)
 
 https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/
 
