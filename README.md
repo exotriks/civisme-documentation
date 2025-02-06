@@ -5,7 +5,7 @@ image: /assets/images/logo/svg/logo-civism-3000x3000-XXL.svg
 layout: home
 ---
 
-![Logo](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/logo/svg/logo-civism-3000x3000-XXL.svg)
+![Logo](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/logo/png/logo-civism-250x250-white-Small.png)
 
 ## :inbox_tray: Librairie civique
 
