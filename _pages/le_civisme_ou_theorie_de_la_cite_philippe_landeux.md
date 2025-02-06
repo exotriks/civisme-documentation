@@ -6,6 +6,8 @@ language: fr
 layout: post
 ---
 
+![Couverture - Le Civisme ou Théorie de la Cité - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_le_civisme_ou_theorie_de_la_cite_philippe_landeux_recto_648x960.jpg)
+
 # LE CIVISME OU THEORIE DE LA CITE (Société sans argent)-Philippe Landeux
 
 > A l’échelle de l’Humanité, la Révolution est faite. A celle de l’Homme, il ne reste plus qu’à la faire.
