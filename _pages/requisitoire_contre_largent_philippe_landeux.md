@@ -6,7 +6,7 @@ language: fr
 layout: post
 ---
 
-![Couverture - Révolution - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_revolution_phillipe_landeux_recto_648x960.jpg)
+![Couverture - Réquisitoire contre Largent - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_requisitoire_contre_largent_philippe_landeux_recto_648x960.jpg)
 
 # Réquisitoire contre Largent ou théorie de l'égalité.
 
