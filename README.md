@@ -9,7 +9,14 @@ permalink: /
 Cet espace contient tous les ouvrages essentiels sur le système post-monétaire, appelé "Civisme", élaboré par Philippe Landeux.
 
 Pour lire les ouvrages en ligne [cliquez ici](https://exotriks.github.io/civisme-documentation/)
+
 https://exotriks.github.io/civisme-documentation/
+
+
+Pour téléchager les ouvrages scrollez vers le bas ou [ciquez ici](https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/)
+
+https://exotriks.github.io/civisme-documentation/others/t%C3%A9l%C3%A9charger/
+
 
 
 
