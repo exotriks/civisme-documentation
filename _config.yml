@@ -24,9 +24,6 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/images/logo/svg/logo-civism-3000x3000-XXL.svg
 
-seo:
-  image: /assets/images/logo/svg/logo-civism-3000x3000-XXL.svg
-
 # markdown render engine.
 markdown:         kramdown
 kramdown:
@@ -82,4 +79,3 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-  - jekyll-seo-tag
