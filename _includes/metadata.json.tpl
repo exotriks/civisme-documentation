@@ -75,5 +75,5 @@
     },
     "basePath": "{{site.baseurl}}",
     "book": {
-        "language": ""
+        "language": "fr"
     }
