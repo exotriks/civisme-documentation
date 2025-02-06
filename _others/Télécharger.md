@@ -22,4 +22,8 @@ layout: post
 
 ## :inbox_tray: Télécharger Le Civisme ou Théorie de la Cité
 
+- :blue_book: [PDF](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Le%20Civisme%20ou%20Théorie%20de%20la%20Cité%20-%20Philippe%20Landeux.pdf)
+- :page_facing_up: [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/le_civisme_ou_theorie_de_la_cite_philippe_landeux.txt)
+- :bookmark_tabs: [MD](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/le_civisme_ou_theorie_de_la_cite_philippe_landeux.md)
+- :scroll: [EPUB](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Le%20Civisme%20ou%20Théorie%20de%20la%20Cité%20-%20Philippe%20Landeux.epub)
 
