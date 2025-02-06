@@ -6,6 +6,8 @@ language: fr
 layout: post
 ---
 
+![Couverture - Le manifeste des Patriciens - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_le_manifeste_des_patriciens_phillipe_landeux_recto_648x960.jpg)
+
 # MANIFESTE DES PATRICIENS
 
 Postulats du Civisme
