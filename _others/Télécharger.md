@@ -31,6 +31,9 @@ layout: post
 
 ## :inbox_tray: Télécharger Le manifeste des Patriciens
 
+- :page_facing_up: [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/le_manifeste_des_patriciens_phillipe_landeux.txt)
+- :bookmark_tabs: [MD](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/le_manifeste_des_patriciens_phillipe_landeux.md)
 
+![Couverture - Le Civisme ou Théorie de la Cité - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_requisitoire_contre_largent_philippe_landeux_recto_648x960.jpg)
 
-
+## :inbox_tray: Télécharger Le Civisme ou Théorie de la Cité
