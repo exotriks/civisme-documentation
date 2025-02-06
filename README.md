@@ -1,7 +1,8 @@
 ---
-layout: home
 title: Civisme documentation
 permalink: /
+image: /assets/images/logo/svg/logo-civism-3000x3000-XXL.svg
+layout: home
 ---
 
 
