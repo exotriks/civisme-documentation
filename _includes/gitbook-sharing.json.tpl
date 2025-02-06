@@ -5,9 +5,9 @@
 
                 "github": true,
               {% if site.github_username %}
-                "github_link": "https://github.com/{{ site.github_username }}",
+                "github_link": "https://github.com/exotriks/civisme-documentation",
               {% else %}
-                "github_link": "https://github.com",
+                "github_link": "https://github.com/exotriks/civisme-documentation",
               {% endif %}
 
                 "telegram": false,
