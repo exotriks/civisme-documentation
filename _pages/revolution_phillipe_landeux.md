@@ -6,6 +6,8 @@ language: fr
 layout: post
 ---
 
+![Couverture - Révolution - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_revolution_phillipe_landeux_recto_648x960.jpg)
+
 # REVOLUTION - Les bases du Civisme - Philippe Landeux
 
 ## AVANT-PROPOS
