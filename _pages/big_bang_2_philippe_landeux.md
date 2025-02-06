@@ -6,6 +6,8 @@ language: fr
 layout: post
 ---
 
+![Couverture - Big Bang 2 - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_big_bang_2_philippe_landeux_recto_648x960.jpg)
+
 # BIG BANG 2 - Le Civisme ou la Révolution sociale - PHILIPPE LANDEUX
 
 > « Révéler au monde quelque chose qui lui importe au premier chef et qu’il ignorait jusque-là, lui montrer son erreur sur quelque point vital de ses intérêts spirituels et temporels, c’est le service le plus important qu’un être humain puisse rendre à ses semblables. » John Stuart Mill
