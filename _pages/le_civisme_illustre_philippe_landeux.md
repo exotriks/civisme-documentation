@@ -1,7 +1,7 @@
 ---
 title: Le Civisme illustré
 author: Philippe Landeux
-date: 2011-10-25
+date: 2011-12-25
 language: fr
 ---
 
