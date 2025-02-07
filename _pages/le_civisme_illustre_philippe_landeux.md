@@ -14,6 +14,7 @@ layout: post
 
 « Blythe Masters n’a jamais fait de politique, elle s’est contentée simplement de travailler la source même de l’activité humaine, sa passion, le nerf de la guerre, le fruit des travaux des uns et des autres : l’argent. » Pierre Jovanovic, Blythe Masters, p. 41
 
+![Dessin personnel, La tyrannie de l’argent, réalisé en 1997, avant le 4 décembre.](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-La-tyrannie-de-l-argent-1997.jpg)
 
 ### Paraphrases
 
