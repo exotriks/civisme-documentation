@@ -313,11 +313,13 @@ S’il y a un lien direct et à sens unique entre la monnaie et Largent, ainsi q
 
 Le système monétaire présente trois angles d’attaque, ce qui, a priori, permet de l'ébranler de différentes manières, mais une seule permet d’en triompher réellement.
 
-![](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig1.png)
+![Figure 1](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig1.png)
 
 Figure 1 : Conserver la monnaie
 
 Si on conserve la monnaie, on conserve Largent et un moyen d’échange, en l’occurrence la monnaie : on ne touche à rien, on ne change rien quoi que l'on fasse par ailleurs…
+
+![Figure 2](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig2.png)
 
 Figure 2 : Conserver un moyen d’échange et Largent ou une forme de monnaie
 
@@ -325,9 +327,13 @@ Si on désire conserver un moyen d’échange fondé consciemment sur Largent (l
 
 La variante qui consiste à modifier la monnaie, donc à la conserver sous prétexte qu’un moyen d’échange est nécessaire, conduit inconsciemment à conserver Largent, ce qui revient au même.
 
+![Figure 3](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig3.png)
+
 Figure 3 : Supprimer la monnaie et par contrecoup tout moyen d’échange, ou vice versa
 
 Si le constat de certains méfaits de la monnaie, ajouté à une mauvaise ou une absence totale d'analyse de ce que sont la monnaie et un moyen d’échange, amène à confondre les deux et, par suite, à abolir la monnaie et à supprimer tout moyen d’échange, ou vice versa, alors la croyance que la notion de valeur marchande est nécessaire pour échanger (Largent) qu’a inculquée la pratique de l’échange monétaire demeure, soit parce qu’elle n’a pas été identifiée comme la base de la monnaie et est à la base du « nouveau » mode d’échange (troc, SEL), soit parce qu’aucun moyen d’échange ne véhicule et n’inculque une autre logique aux hommes, lesquels continuent de raisonner au fond d’eux- mêmes comme auparavant, quel que soit le système économico-politique en place (rationnement, partage). Les contradictions internes, la naïveté et l'anachronisme des solutions envisagées discréditent leurs auteurs ou condamnent toute expérience à l’échec. Le système reste monétaire ou le redeviendra sous la pression de Largent, car une « société » développée a besoin d’un moyen d’échange, et la monnaie est celui qui répond à Largent.
+
+![Figure 4](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig4.png)
 
 Figure 4 : Anéantir Largent en adoptant un moyen d’échange autre qu’une monnaie
 
