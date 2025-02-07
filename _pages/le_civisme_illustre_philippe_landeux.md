@@ -22,6 +22,8 @@ layout: post
 
 « Largent est une croyance, Néo, et cette croyance est notre ennemie. Quand on est dans le système monétaire, qu’est-ce qu’on voit partout ? Des hommes d’affaire, des enseignants, des avocats, des charpentiers. C’est avec leur esprit qu’on communique pour essayer de les affranchir. Mais en attendant, tous ces gens sont quand même des valets de Largent, ce qui fait d’eux nos ennemis. Ce qu’il faut que tu comprennes, c’est que pour la plupart ils ne sont pas prêts à remettre en cause leurs préjugés. Bon nombre d’entre eux sont tellement inconscients et désespérément dépendants du système qu’ils vont jusqu’à se battre pour le protéger. »
 
+![Néo, déconnecté de la Matrice, découvrant de ses yeux la vérité et l’horreur de la condition humaine dans le monde réel, dominé par les machines](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/assets/images/illustrations/Néo%2C déconnecté de la Matrice%2C découvrant de ses yeux la vérité et l’horreurde la condition humaine dans le monde réel%2C dominé par les machines.jpg)
+
 ## AVANT PROPOS
 
 Le Civisme est une théorie née le jeudi 4 décembre 1997, à 5 heures du matin. C’est ce jour et à cette heure que me vint à l’esprit l’idée simple dont tout le reste découle : un Citoyen a des droits, dont celui d’accéder au marché, parce qu’il est Citoyen. Ce principe porte en lui une forme d’échange radicalement nouvelle, puisqu’il condamne le moyen d’échange qu’est la monnaie, le droit d’accès étant lié à la Citoyenneté, et ouvre les yeux sur le mode d’échange actuel basé sur Largent, défini par le Civisme comme étant la croyance que la notion de valeur marchande est nécessaire est pour échanger.
