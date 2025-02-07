@@ -313,6 +313,8 @@ S’il y a un lien direct et à sens unique entre la monnaie et Largent, ainsi q
 
 Le système monétaire présente trois angles d’attaque, ce qui, a priori, permet de l'ébranler de différentes manières, mais une seule permet d’en triompher réellement.
 
+![](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/fig1.png)
+
 Figure 1 : Conserver la monnaie
 
 Si on conserve la monnaie, on conserve Largent et un moyen d’échange, en l’occurrence la monnaie : on ne touche à rien, on ne change rien quoi que l'on fasse par ailleurs…
