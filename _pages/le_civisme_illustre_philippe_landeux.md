@@ -337,20 +337,26 @@ Si le constat de certains méfaits de la monnaie, ajouté à une mauvaise ou une
 
 Figure 4 : Anéantir Largent en adoptant un moyen d’échange autre qu’une monnaie
 
-Un moyen d’échange servant à attester la Citoyenneté et rendant les Citoyens égaux dans le droit d’accéder au marché ne repose plus sur la notion de valeur, éradique Largent et par-là même la monnaie. Il n’y a pas d’autre alternative pour sortir du système monétaire puisque les autres figures apprennent qu’il faut, pour cela, disposer d’un moyen d’échange qui ne repose pas sur Largent et ne soit donc pas de la monnaie. Par ailleurs, Largent est condamnable en tant que pierre angulaire de l’inégalité, et la monnaie, en tant matérialisation et extériorisation des droits. Sortir du système monétaire implique d’adopter un moyen d’échange égalitaire et de ne plus faire dépendre les droits des Citoyens d’autre chose que de leur Citoyenneté elle- même.
+Un moyen d’échange servant à attester la Citoyenneté et rendant les Citoyens égaux dans le droit d’accéder au marché ne repose plus sur la notion de valeur, éradique Largent et par-là même la monnaie. Il n’y a pas d’autre alternative pour sortir du système monétaire puisque les autres figures apprennent qu’il faut, pour cela, disposer d’un moyen d’échange qui ne repose pas sur Largent et ne soit donc pas de la monnaie. Par ailleurs, Largent est condamnable en tant que pierre angulaire de l’inégalité, et la monnaie, en tant matérialisation et extériorisation des droits. Sortir du système monétaire implique d’adopter un moyen d’échange égalitaire et de ne plus faire dépendre les droits des Citoyens d’autre chose que de leur Citoyenneté elle-même.
 
+![accès au marché capitaliste](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-acces-au-marché-dans-le-capitalisme-simple.jpg)
+
+![accès au marché civique](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-acces-au-marché-dans-le-civisme-simple.jpg)
 
 ### L’ACCES AU MARCHE dans le système monétaire / dans la Cité 
 Explications
 
-1.
-Les individus n’ont accès au marché, pour en retirer biens ou services, que s’ils travaillent, s’ils échangent leur production ou leur force de travail contre une somme de monnaie aléatoire de par le jeu des valeurs. Leur droit d’accès — et tous les droits qui passent par lui — est indépendant des individus et des lois humaines ; il est matérialisé et conféré par la monnaie seule ; il est inégal et proportionnel à la quantité de monnaie que les individus parviennent à arracher, avant de devoir s’en défaire.
+1. Les individus n’ont accès au marché, pour en retirer biens ou services, que s’ils travaillent, s’ils échangent leur production ou leur force de travail contre une somme de monnaie aléatoire de par le jeu des valeurs. Leur droit d’accès — et tous les droits qui passent par lui — est indépendant des individus et des lois humaines ; il est matérialisé et conféré par la monnaie seule ; il est inégal et proportionnel à la quantité de monnaie que les individus parviennent à arracher, avant de devoir s’en défaire.
 
 Les travailleurs sont inégaux en droits, mais les individus dont l’activité est utile à la « société » sur un plan autre qu’économique ne sont ni reconnus ni payés et n’ont par eux- mêmes aucun droit.
 
 La « société » ne joue aucun rôle. Les individus sont livrés à eux-mêmes et aux lois de la monnaie. Ce système d’échange n’est pas un système social ; il est même antisocial : c’est la guerre de tous contre tous.
 
 Cette théorie peut-être faussée par l’Etat providence qui redistribue de l’argent — prélevé sur les travailleurs et les consommateurs — aux individus qui ne travaillent pas (voire ne font strictement rien) ou n’en gagnent pas beaucoup, mais l’est fatalement par la monnaie qui peut être économisée, gaspillée, perdue, volée, obtenue par recel ou en paiement d’une activité illégale.
+
+![accès au marché capitaliste-avancé](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-acces-au-marché-dans-le-capitalisme-avancé.jpg)
+
+![accès au marché civique-avancé](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-acces-au-marché-dans-le-civisme-avancé.jpg)
 
 2. Les individus qui s’acquittent de tous leurs devoirs du Citoyen dont celui de participer à la vie de la Cité d’une manière reconnue par elle sont Citoyens et ont le droit d’accéder au marché (ou produit commun) en vertu de leur Citoyenneté. Tous les Citoyens ont un égal droit d’accéder au marché et d’en retirer librement biens et services. Ce droit est borné naturellement par les envies du Citoyen, par l’exercice de ce même droit par ses Concitoyens, par la réalité du marché et, au besoin, par la loi.
 
@@ -374,6 +380,10 @@ La Cité ne peut contrôler le travail individuel des employés, leurs efforts �
 
 Une entreprise ne peut exister sans autorisation de la Cité qui seule peut lui procurer le moyen d’accéder au marché pour ses propres besoins, et elle existe tant qu’elle prouve à la Cité son utilité ou que celle-ci la regarde comme utile. Il s’ensuit, d’une part, que tout employé est Citoyen, d’autre part, que l’entreprise a le droit (via une carte professionnelle) d’accéder librement au marché, autrement dit de faire appel à des fournisseurs et des prestataires de services, lesquels sont eux-mêmes dans le cas de toute entreprise : ils ont besoin de clients (particuliers, professionnels, administration) pour prouver à la Cité leur activité et leur utilité.
 
+![loto](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/loto.jpg)
+
+![equilibre economique](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-equilibre-economique%20-entre-offre-et-demande.jpg)
+
 ### EQUILIBRE ECONOMIQUE Système monétaire / Cité 
 Explications
 
@@ -387,13 +397,17 @@ La production générale ou le produit commun, c’est-à-dire les biens et serv
 
 Tous les systèmes imaginables correspondent à un des quatre cas de figure suivant :
 
-1 Le système monétaire réel.
+1. Le système monétaire réel.
+
+![repartition-monetaire](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-repartition-des-droits-dans-le-systeme-monetaire.jpg)
 
 La monnaie qui permet seule d’accéder au marché (acheter et payer) se répartit inégalement. Les individus ont donc un pouvoir d’achat inégal, quelques-uns d’entre eux en ayant énormément, beaucoup peu et certains pas du tout. Comme le prix global de l’Offre (produit commun) est égal à la Demande (masse monétaire), le produit commun est partagé en proportion des revenus. La loi du plus riche n’est qu’une transposition de la loi du plus fort.
 
 Bien que le pouvoir d’achat des individus soient généralement inférieur à leurs besoins et leurs envies, il arrive que des produits, même appréciés, ne trouvent pas d’acheteurs, autrement dit qu’il y ait une surproduction sectorielle artificielle, accompagnée de chômage. Mais il arrive aussi que le système monétaire, artificiel et évanescent par nature, soit déstabilisé, que la Demande s’effondre globalement et que la surproduction soit générale, d’où licenciements massifs, faillites en cascade, ce que l’on appelle « crise » alors même que la santé du système (équilibre Offre / Demande) ne signifie ni « plein emploi » ni « prospérité universelle ».
 
 2. Les systèmes monétaires utopiques
+
+![repartitions-utopiques](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-repartition-des-droits-dans-les-systemes-monetaires-utopiques.jpg)
 
 Le système monétaire réel est contesté en raison de l’inégalité qu’il génère, tant en des droits qu’en biens. Deux options égalitaristes, imprégnés de préjugés monétaires, sont donc possibles :
 
@@ -411,6 +425,8 @@ Limiter artificiellement le pouvoir d’achat ou la part des citoyens sur le pro
 
 3. La Cité ou l’état de droits
 
+![repartition-civique](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-repartition-des-droits-dans-le-systeme-civique.jpg)
+
 Dans une Société digne de ce nom, les Citoyens ont le devoir de participer à la vie de la Cité. En retour, ils ont le droit d’accéder librement au marché. C’est la Citoyenneté qui leur donne ce droit, contrairement aux autres systèmes dans lesquels ce droit dépend soit d’unités soit du bon vouloir de l’Etat. Les choses n’ont pas de prix. Les Citoyens jouissent donc d’un pouvoir d’achat indéfini, en théorie illimité et donc égal. Dans ces conditions, bien qu’ils exercent leur droit différemment, le produit commun se répartit en parts égales de par la loi des grands nombres. Même si les parts étaient différentes, ce ne serait que l’effet de la liberté individuelle.
 
 Ce cas de figure rappelle le cas précédent, à la différence que les Citoyens sont libres, que le système économique est authentiquement libéral (ce n’est plus du capitalo-libéralisme) et que la production est à son maximum (plein emploi). A court terme, la Demande (somme des besoins et envies) excède l’Offre (produit commun), mais l’Offre est colossale et la différence porte sur du superflu.
@@ -423,6 +439,8 @@ A tous, il faut dire qu’aucune Révolution (sociale) ne sera jamais mondiale. 
 
 Le problème posé est, du reste, d’une simplicité enfantine à résoudre.
 
+![commerce-international](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-commerce-international-dans-le-capitalisme-et-dans-le-civisme.png)
+
 Croire qu’une société fonctionnant sans monnaie ne peut pas échanger avec des pays monétaires, c’est poser le problème à l’envers. Cela revient à dire : « Elle n’a pas de monnaie, donc elle ne peut ni payer ni acheter ». En fait, la véritable question est : « Comment une société fonctionnant en interne sans monnaie peut-elle s’en procurer pour commercer avec l’extérieur ? ». Réponse : comme tout individu plongé dans un monde monétaire.
 
 La monnaie permet d’acheter. Mais il faut d’abord s’en procurer. Un individu ne crée pas la monnaie dont il a besoin ; il doit s’en procurer en vendant ses produits ou sa force de travail. Ainsi, il a de la monnaie, mais il ne l’ingère pas, il n’en a pas dans le corps ; elle reste à l’extérieur de lui. Il a payé ce qu’il a absorbé, mais ce qu’il a absorbé n’est pas de la monnaie en soi. Même plongé dans un monde monétaire, son corps fonctionne sans monnaie.
@@ -433,7 +451,11 @@ En pratique, cela signifie que les entreprises de la Cité, quand elles exporter
 
 Mais, se demandera-t-on, quel intérêt une entreprise trouvera- t-elle à exporter si elle n’empoche pas les gains ? Pour le comprendre, il faut déjà comprendre ce que sera une entreprise dans la Cité. Ce ne sera plus une machine à profit pour son propriétaire (patron ou actionnaires). Ce sera le cadre dans lequel les Citoyens rempliront indirectement leur devoir de participer à la vie de la Cité, laquelle « jugera », d’après les « ventes » de l’entreprise, s’ils ont effectivement rempli leur devoir, s’ils ont été utiles aux autres, s’ils ont honoré leur Citoyenneté et méritent d’accéder librement au marché (alimenté par les autres). Dans le cas contraire, des sanctions seront prévues et elles frapperont tous les employés sans distinction. Autrement dit, un Citoyen travaillera pour demeurer Citoyen et pour pouvoir accéder au marché ; son intérêt sera que son entreprise soit la plus performante possible afin qu’elle soit, et lui avec, à l’abri des sanctions. Comme ces sanctions seront provoquées par un faible niveau de « ventes » (la Cité ne prendra pas en considération le niveau production qui, en lui-même, ne garantit pas plus la qualité des produits que l’utilité de l’activité) et que la Cité prendra aussi bien en compte les « ventes » sur le marché national que sur les marchés étrangers, les entreprises ne perdront rien à exporter et certaines, faute de demande intérieure, auront tout à y gagner. S’il s’avère que les entreprises n’exportent pas assez en regard des importations, la Cité — qui disposera de la production nationale bien qu’elle ne fera pas valoir ses droits d’ordinaire — pourra toujours les inciter à exporter davantage, ce qui, pour elles, ne présentera aucun inconvénient.
 
+![exportations](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-exportations-et-importations-dans-le-civisme.jpg)
+
 Bien entendu, tout cela exigera la mise en place d’organismes de gestion dans un contexte où l’informatique et l’absence de monnaie simplifieront à l’extrême toutes les opérations. L’ensemble de ces organismes sera infiniment moins lourd que la présente administration publique et tous les rouages financiers privés (banques, assurances, mutuelles, etc.). Contrairement à l’idée que ces propos peuvent inspirer, il y aura beaucoup moins d’Etat qu’aujourd’hui, et, à la vérité, il n’y en aura quasiment pas. Car à quoi sert l’appareil d’Etat dans un système monétaire (antidémocratique par nature), si ce n’est à brasser de l’argent ? Les besoins monétaires réduits aux échanges internationaux, que restera-t-il de lui ? Le strict minimum.
+
+![politique](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-organistation-politique-dans-le-civisme.jpg)
 
 ### ORGANISATION POLITIQUE DE LA CITE démocratie et séparation des pouvoirs
 Explications
@@ -487,6 +509,8 @@ Ainsi les trois pouvoirs (exécutif, législatif et judiciaire) sont réellement
 ### ORGANISATION ECONOMIQUE, FONCTIONS CITOYENNES & DROITS EXCLUSIFS DES CITOYENS NATIONAUX 
 Explications
 
+![commissions](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-organisation-des-commissions-dans-le-civisme.jpg)
+
 Quiconque est admis à participer à la vie de la Cité et participe effectivement est Citoyen. La Citoyenneté est donc à la portée du premier venu. Cependant la gestion politique et économique de la Cité nécessite la mise en place d’institutions qui, en tant qu’organes vitaux, ne peuvent être composées ni d’indifférents ni de traîtres potentiels ni d’apparatchiks.
 
 Doivent donc être distingués les simples Citoyens de France qui s’acquittent uniquement des Devoirs économiques et sociaux et ne peuvent prétendre qu’aux Droits de mêmes natures attachés à la Citoyenneté, et les Citoyens français qui prouvent leur fidélité envers la Nation (Cité au sens strict) en acceptant de remplir des devoirs supplémentaires, fixés par une clause facultative du Contrat Social, qui confèrent la Nationalité et le droit de cité. C’est parmi ces derniers et parmi ceux ayant dix ans de Citoyenneté effective que la Cité puise pour assurer ses fonctions vitales et renouveler régulièrement le personnel de ces institutions appelées « Commissions » pour la plupart. Ces fonctions nouvelles ainsi que le poids inédit des Citoyens dans la vie politique (voir Organisation politique de la Cité) justifient, là encore, la distinction entre la Citoyenneté et la Nationalité, entre Citoyens de France et Citoyens français.
@@ -524,6 +548,10 @@ Toutes les Commissions d’ordre économique, ainsi que les entreprises, sont so
 
 La Nationalité revêt une importance capitale dans la Cité dans la mesure où les Citoyens nationaux participent réellement, directement et à tous les niveaux à la gestion de leur Cité. Etre Français n’est pas un vain mot. Cela implique un dévouement sans faille envers la France et exclut toute allégeance à tout autre pays. Cela confère des devoirs, des droits et des devoirs-droits, c’est-à-dire des droits qui sont en même temps des devoirs. Seuls des Citoyens français peuvent, comme il a été dit, être Commissaires, Banquiers, Censeurs ou Jurés ; eux seuls sont électeurs et éligibles ; eux seuls peuvent faire les lois, en réclamer ou contester celles en vigueur ; eux seuls peuvent être Gardes nationaux, policiers (nationaux ou municipaux), militaires, magistrats, enseignants, employés des services publics et des entreprises relevant de l’intérêt national ; enfin, eux seuls ont le droit de disposer pour y habiter ou l’exploiter d’une portion du territoire national qu’ils sont prêts à défendre. Nul n’acquiert ces droits, ni aucun autre, à la naissance. N’en jouissent que ceux qui les méritent.
 
+![courbes-2030](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-courbes-des-evolutions-techniques-et-politiques.jpg)
+
+![courbes-2030-hypothèse](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-courbes-des-evolutions-techniques-et-politiques-hypothèses.jpg)
+
 ### POUR QUAND LA REVOLUTION ? Courbes des évolutions techniques et politiques 
 Explications
 
@@ -549,6 +577,8 @@ Courbe
 5 Malgré les évolutions techniques, les droits n’évoluent et se mettent au contraire à régresser. L’histoire fait machine arrière. Les évolutions technique et politique qui, jusqu’à présent, semblaient aller de pair prennent à l’avenir des directions opposées d’après cette hypothèse.
 
 Laquelle de toutes ces hypothèses est-elle in fine la moins absurde ? Il appartient à chacun de répondre à cette question. L’avenir mettra tout le monde d’accord.
+
+![allons messieurs](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-capitalisme-allons-messieurs-vous-êtes-mes-esclaves.jpg)
 
 ### EGALITE & EGALITARISME
 
@@ -759,6 +789,25 @@ L’utopie n’est pas de s’attaquer à Largent pour changer le « monde », m
 
 
 TU VEUX L’IMPENSABLE ? TU N’ES PLUS SEUL.
+
+![combat a armes legales](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-dessin-combat-a-armes-legales.png)
+
+Le Civisme est né le 4 décembre 1997. Mais cette théorie n’a pris ce nom qu’en janvier 2003. Jusque-là, je l’appelais la SDT (Société du Travail). Dans le même registre, le terme Largent n’est apparu qu’au mois de mars 2000, après que j’eusse entrepris, le mois précédent, d’écrire un Réquisitoire contre l’argent.
+
+![fasciste](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-dessin-Vive-la-France-fasciste.png)
+
+Je suis monté à Paris en août 1996 dans le but de faire du dessin de presse et avec l’idée de ranimer le patriotisme. Le dessin ci-dessus illustre mon état d’esprit et le grotesque des gauchistes qui insultent les symboles du pays, du peuple, de l’histoire et des valeurs dont eux-mêmes se réclament.
+
+![diversion](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-dessin-Diversion.png)
+
+Le temps passe, les sujets changent, les méthodes restent. Tout est bon, pour les puissants, pour détourner l’attention du peuple de ses problèmes et de leur incapacité voire de leur culpabilité. L’opération en Libye et l’affaire DSK en ont été, dernièrement, de beaux exemples. Mais, au bout du compte, dénoncer les gouvernements, les banques, les prix, la monnaie, la loi de 1973, etc., tout sauf Largent (croyance que la notion de valeur marchande est nécessaire pour échanger), est, non pas une stratégie, mais une erreur du même ordre. Ce n’est là aussi qu’une diversion (généralement involontaire) puisque le fond du problème social est Largent lui-même. Tout le reste n’est que leurres.
+
+
+
+
+
+
+
 
 
 
