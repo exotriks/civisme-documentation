@@ -290,6 +290,7 @@ L'EGALITE ne concerne pas tous les Devoirs et tous les Droits. Les Citoyens sont
 
 CAS PARTICULIER : Des Devoirs particuliers, facultatifs, peuvent générer des Droits particuliers. Ces Devoirs particuliers doivent cependant être regardés par tous ceux qui acceptent de les remplir comme des Devoirs fondamentaux conférant des Droits du même ordre. Tel est le cas des Devoirs qui confèrent la Nationalité (distincte de la Citoyenneté) et les Droits politiques qui y sont attachés. Ces Devoirs et ces Droits n’entrent pas dans la balance de l’Egalité générale, puisque les Citoyens qui ne jouissent pas desdits Droits n’ont pas non plus rempli les Devoirs par lesquels ils se méritent.
 
+![Comprendre et sortir du système monétaire](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-comprendre-et-sortir-du-systeme-monetaire.jpg)
 
 ### COMPRENDRE ET SORTIR DU SYSTEME MONETAIRE
 Explications
