@@ -1,5 +1,5 @@
 
-#Le Civisme illustré - Philippe Landeux
+# Le Civisme illustré - Philippe Landeux
 
 « Il est plus facile de briser un atome qu’un préjugé. » Albert Einstein
 
@@ -8,13 +8,13 @@
 « Blythe Masters n’a jamais fait de politique, elle s’est contentée simplement de travailler la source même de l’activité humaine, sa passion, le nerf de la guerre, le fruit des travaux des uns et des autres : l’argent. » Pierre Jovanovic, Blythe Masters, p. 41
 
 
-###Paraphrases
+### Paraphrases
 
 « Je vais te dire pourquoi tu lis ce livre. Tu le lis parce que tu as un savoir, un savoir que tu ne t’expliques pas mais qui t’habite, un savoir que tu as ressenti toute ta vie. Tu sais que le monde ne tourne pas rond, sans comprendre pourquoi, mais tu le sais, comme un implant dans ton esprit, de quoi te rendre malade. C’est ce sentiment qui t’a amené jusqu’à ce livre. Sais-tu exactement de quoi je parle ? [De Largent.] Est- ce que tu veux également savoir ce qu’il est ? … Largent est universel ; il est omniprésent ; il est avec nous, ici, en ce moment même. Tu le vois chaque fois que tu regardes par la fenêtre ou lorsque tu allumes la télévision. Tu ressens sa présence quand tu pars au travail, quand tu vas à l’église ou quand tu payes tes factures. Il est le filtre au travers du quel tu regardes le monde et qui t’empêche de voir la vérité… [Quelle vérité ?] que tu es un esclave, Néo. Comme tous les autres tu es né enchaîné par les préjugés monétaires et est au service du capitalisme. Largent est une prison… une prison pour ton esprit. »
 
 « Largent est une croyance, Néo, et cette croyance est notre ennemie. Quand on est dans le système monétaire, qu’est-ce qu’on voit partout ? Des hommes d’affaire, des enseignants, des avocats, des charpentiers. C’est avec leur esprit qu’on communique pour essayer de les affranchir. Mais en attendant, tous ces gens sont quand même des valets de Largent, ce qui fait d’eux nos ennemis. Ce qu’il faut que tu comprennes, c’est que pour la plupart ils ne sont pas prêts à remettre en cause leurs préjugés. Bon nombre d’entre eux sont tellement inconscients et désespérément dépendants du système qu’ils vont jusqu’à se battre pour le protéger. »
 
-##AVANT PROPOS
+## AVANT PROPOS
 
 Le Civisme est une théorie née le jeudi 4 décembre 1997, à 5 heures du matin. C’est ce jour et à cette heure que me vint à l’esprit l’idée simple dont tout le reste découle : un Citoyen a des droits, dont celui d’accéder au marché, parce qu’il est Citoyen. Ce principe porte en lui une forme d’échange radicalement nouvelle, puisqu’il condamne le moyen d’échange qu’est la monnaie, le droit d’accès étant lié à la Citoyenneté, et ouvre les yeux sur le mode d’échange actuel basé sur Largent, défini par le Civisme comme étant la croyance que la notion de valeur marchande est nécessaire est pour échanger.
 
@@ -49,7 +49,7 @@ Philippe Landeux
 George Orwell, 1984, p. 119
 
 
-##LES CLES D’AUJOURD’HUI ET DE DEMAIN
+### LES CLES D’AUJOURD’HUI ET DE DEMAIN
 
 Lisez bien les phrases suivantes, pénétrez-vous de leur sens, méditez leurs conséquences, notez-les quelque part et gardez-les toujours sous les yeux ou du moins à l’esprit. Aussi anodines qu'elles paraissent, elles n’ont jamais été formulées et il n'en existe pas de plus révolutionnaires.
 
@@ -78,7 +78,7 @@ Pensée du jour, 23 septembre 2011
 
 (1) Les phrases 1, 2, 3 et 4 sous-entendent le caractère artificiel, arbitraire, individualiste et antisocial de la notion de valeur marchande (Largent) sur laquelle repose la monnaie qui est au centre des rapports sociaux et autour de laquelle le système monétaire et donc notre monde s’articulent. Que nos « sociétés » soient fondées sur un paramètre antisocial n’est pas le moindre des paradoxes. C’est bien la première chose dont un vrai révolutionnaire doit prendre conscience, sous peine d’être lui-même prisonnier des préjugés monétaires et de la logique capitaliste. Par ailleurs, comprendre que Largent est un fléau parce qu’il n’a aucune dimension sociale doit amener à rejeter la notion de valeur marchande et à aborder la question de l’échange sous un autre angle. Les phrases 5 et 6 font entrevoir une nouvelle logique et la solution du problème. La phrase 7 est la clé de la Cité. Le problème est que Largent est une croyance ; il formate notre esprit et le rend hermétique à toute logique autre que la sienne. L’intelligence, la logique, la réflexion, la bonne volonté ne suffisent donc pas pour faire sauter le verrou mental. Pour cela, il faut qu’un déclic se produise ; il faut être frappé par l’évidence de l’absurdité du système monétaire. Or rien ne peut provoquer à coup sûr ce déclic. Le présent ouvrage a néanmoins l’ambition de mettre sur la bonne voie les lecteurs qui, a priori, sont déjà bien disposés mais qui devront malgré tout faire d’eux-mêmes le pas décisif. « Je t’ai dit que je ne pourrais que te montrer la porte ; c’est à toi qu’il appartient de la franchir. » (Morpheus, Matrix, 1 h, 07’, 40’’)
 
-##QU’EST-CE QUE LARGENT ?
+## QU’EST-CE QUE LARGENT ?
 
 Origines et conséquences du troc et de la monnaie
 
@@ -165,7 +165,7 @@ Largent a ses lois. La monnaie a ses lois. Toutes ces lois s’imposent aux homm
 
 « Vous voulez les misérables secourus, moi je veux la misère supprimée. » Victor Hugo
 
-##THEORIES DU CIVISME
+## THEORIES DU CIVISME
 
 L’Égalité ou Largent : il faut choisir.
 
@@ -252,7 +252,7 @@ Il est impossible et même inutile d’en dire davantage ici. Nous en avons d’
 Telles sont les conceptions de base du Civisme, une théorie révolutionnaire inédite, même si par certains aspects elle en rappelle d’autres. Ces lignes sont les premières à être publiées. Si vous ne deviez en retenir qu’une chose, souvenez-vous toujours que Largent est l’obstacle à l’Égalité, au respect des Principes de l’ordre social, à l’établissement de la Cité. Il est le véritable ennemi de l’Humanité, le seul ennemi à abattre. Il suffit d’ailleurs de constater que le monde marche sur la tête et tourne autour de lui (à travers la monnaie) pour comprendre qu’il est la clé de voûte du système actuel, son point fort et son point faible, et que c’est sur lui que la prochaine révolution (ou évolution révolutionnaire) devra porter ses coups sous peine d’être un nouveau coup pour rien.
 17 novembre 2007
 
-##DEVOIRS, DROITS & EGALITE
+## DEVOIRS, DROITS & EGALITE
 les différents niveaux de devoirs et de droits
 Explications
 
@@ -271,7 +271,7 @@ L'EGALITE ne concerne pas tous les Devoirs et tous les Droits. Les Citoyens sont
 CAS PARTICULIER : Des Devoirs particuliers, facultatifs, peuvent générer des Droits particuliers. Ces Devoirs particuliers doivent cependant être regardés par tous ceux qui acceptent de les remplir comme des Devoirs fondamentaux conférant des Droits du même ordre. Tel est le cas des Devoirs qui confèrent la Nationalité (distincte de la Citoyenneté) et les Droits politiques qui y sont attachés. Ces Devoirs et ces Droits n’entrent pas dans la balance de l’Egalité générale, puisque les Citoyens qui ne jouissent pas desdits Droits n’ont pas non plus rempli les Devoirs par lesquels ils se méritent.
 
 
-###COMPRENDRE ET SORTIR DU SYSTEME MONETAIRE
+### COMPRENDRE ET SORTIR DU SYSTEME MONETAIRE
 Explications
 
 Le système monétaire repose sur trois éléments : 
@@ -311,7 +311,7 @@ Figure 4 : Anéantir Largent en adoptant un moyen d’échange autre qu’une mo
 Un moyen d’échange servant à attester la Citoyenneté et rendant les Citoyens égaux dans le droit d’accéder au marché ne repose plus sur la notion de valeur, éradique Largent et par-là même la monnaie. Il n’y a pas d’autre alternative pour sortir du système monétaire puisque les autres figures apprennent qu’il faut, pour cela, disposer d’un moyen d’échange qui ne repose pas sur Largent et ne soit donc pas de la monnaie. Par ailleurs, Largent est condamnable en tant que pierre angulaire de l’inégalité, et la monnaie, en tant matérialisation et extériorisation des droits. Sortir du système monétaire implique d’adopter un moyen d’échange égalitaire et de ne plus faire dépendre les droits des Citoyens d’autre chose que de leur Citoyenneté elle- même.
 
 
-###L’ACCES AU MARCHE dans le système monétaire / dans la Cité 
+### L’ACCES AU MARCHE dans le système monétaire / dans la Cité 
 Explications
 
 1.
@@ -345,14 +345,14 @@ La Cité ne peut contrôler le travail individuel des employés, leurs efforts �
 
 Une entreprise ne peut exister sans autorisation de la Cité qui seule peut lui procurer le moyen d’accéder au marché pour ses propres besoins, et elle existe tant qu’elle prouve à la Cité son utilité ou que celle-ci la regarde comme utile. Il s’ensuit, d’une part, que tout employé est Citoyen, d’autre part, que l’entreprise a le droit (via une carte professionnelle) d’accéder librement au marché, autrement dit de faire appel à des fournisseurs et des prestataires de services, lesquels sont eux-mêmes dans le cas de toute entreprise : ils ont besoin de clients (particuliers, professionnels, administration) pour prouver à la Cité leur activité et leur utilité.
 
-###EQUILIBRE ECONOMIQUE Système monétaire / Cité 
+### EQUILIBRE ECONOMIQUE Système monétaire / Cité 
 Explications
 
 Dans un système monétaire, la Demande et l’Offre sont exprimées en termes monétaires et doivent être au même niveau. La Demande globale est la somme des pouvoirs d’achats limités ; l’Offre, la somme des prix des biens et services sur le marché. Toute Offre qui accède la Demande disparaît faute d’acheteurs, cette disparition détruisant les emplois qui la génère, à moins qu’une baisse des prix, donc des salaires, ramène artificiellement l’Offre au niveau de la Demande. Inversement, une augmentation de la Demande permet en théorie une augmentation de l’Offre par un surplus de production et la création d’emplois, mais est généralement compensée par une augmentation des prix, donc un accroissement artificiel de l’Offre. Dans un système monétaire, les considérations financières passent avant toute chose et l’équilibre économique ne signifie pas plein emploi, travailler ne signifiant d’ailleurs pas être bien payé.
 
 Dans la Cité, les Citoyens et les acteurs économiques ont par nature le droit d’accéder au marché, droit qui leur confère un pouvoir d’achat indéfini. La Demande qui est l’expression des désirs est en théorie illimitée. En revanche, l’Offre de biens et services, qui reflète le niveau d’emploi, est limitée à l’instant « T ». Elle est donc toujours inférieure à la Demande et augmente tant que des moyens humains et matériels peuvent être mobilisés pour produire. Elle augmente donc jusqu’à ce qu’il y ait plein emploi. Rien ne peut menacer cet équilibre fondé sur un déséquilibre permanent entre la Demande et l’Offre.
 
-###POUVOIR D’ACHAT & REPARTITION DU PRODUIT COMMUN
+### POUVOIR D’ACHAT & REPARTITION DU PRODUIT COMMUN
 
 La production générale ou le produit commun, c’est-à-dire les biens et services présents sur le marché (hors importations et sans tenir compte des exportations), se répartit entre les consommateurs en fonction de leur pouvoir d’achat, c’est-à- dire en fonction de l’étendue de leur droit d’accéder au marché.
 
@@ -386,7 +386,7 @@ Dans une Société digne de ce nom, les Citoyens ont le devoir de participer à 
 
 Ce cas de figure rappelle le cas précédent, à la différence que les Citoyens sont libres, que le système économique est authentiquement libéral (ce n’est plus du capitalo-libéralisme) et que la production est à son maximum (plein emploi). A court terme, la Demande (somme des besoins et envies) excède l’Offre (produit commun), mais l’Offre est colossale et la différence porte sur du superflu.
 
-###EXPORTATIONS - IMPORTATIONS pour une Cité (société non-monétaire)
+### EXPORTATIONS - IMPORTATIONS pour une Cité (société non-monétaire)
 
 Après qu’une réponse sérieuse soit donnée à la question : « Comment échanger sans monnaie ? » vient infailliblement la remarque suivante : « Cette révolution doit être mondiale car une société, dans le contexte actuel, ne peut pas se couper du monde ». En fait, cette remarque sous-entend cette autre question : « Comment une Cité, une société fonctionnant sans monnaie, peut-elle importer en provenance de pays monétaires les produits dont elle a besoin et qui ne sont pas gratuits ? ». Comme il semble, là encore, à tort, que le problème soit insoluble, les contradicteurs croient trouver dans cette apparente difficulté le prétexte pour tout laisser tomber et ne pas affronter Largent ; ils croient qu’après avoir percé le plus grand des mystères la Révolution sera incapable de triompher des vaguelettes ; ils croient surtout qu’en paraissant perspicaces ils justifient leur lâcheté intellectuelle et que les révolutionnaires sont dupes de leur stratagème. Maintenant, il arrive aussi que cette remarque émane de pseudo révolutionnaires qui, n’ayant pas eux-mêmes trouvé de réponse aux dites questions, ne voient de solution que dans la fuite en avant.
 
@@ -406,7 +406,7 @@ Mais, se demandera-t-on, quel intérêt une entreprise trouvera- t-elle à expor
 
 Bien entendu, tout cela exigera la mise en place d’organismes de gestion dans un contexte où l’informatique et l’absence de monnaie simplifieront à l’extrême toutes les opérations. L’ensemble de ces organismes sera infiniment moins lourd que la présente administration publique et tous les rouages financiers privés (banques, assurances, mutuelles, etc.). Contrairement à l’idée que ces propos peuvent inspirer, il y aura beaucoup moins d’Etat qu’aujourd’hui, et, à la vérité, il n’y en aura quasiment pas. Car à quoi sert l’appareil d’Etat dans un système monétaire (antidémocratique par nature), si ce n’est à brasser de l’argent ? Les besoins monétaires réduits aux échanges internationaux, que restera-t-il de lui ? Le strict minimum.
 
-##ORGANISATION POLITIQUE DE LA CITE démocratie et séparation des pouvoirs
+### ORGANISATION POLITIQUE DE LA CITE démocratie et séparation des pouvoirs
 Explications
 
 ATTENTION : L'organisation politique ci-après n'a de sens que dans une Cité, c'est-à-dire dans un système non-monétaire dans lequel les Citoyens sont réellement égaux en Devoirs et en Droits, dans lequel ils jouissent tous d'un droit indéfini d'accéder au marché et, enfin, dans lequel Citoyenneté et Nationalité sont deux notions distinctes et bien définies, chacune impliquant des devoirs et conférant des droits. Il est impossible d'instaurer une véritable démocratie dans l'inégalité, au milieu d'hommes corrompus et corruptibles, quand les intérêts particuliers s'opposent à l'intérêt général. Il est même dangereux de l'établir alors que la "nationalité" ne veut rien dire et que, de ce fait, les droits politiques ne sont pas le monopole des patriotes, c'est-à-dire des Citoyens fidèles à la Nation, ardents à préserver son identité et sa souveraineté.
@@ -455,7 +455,7 @@ Seul le Président de la République (Pt), chef des armées (ARM), est élu au n
 
 Ainsi les trois pouvoirs (exécutif, législatif et judiciaire) sont réellement séparés. Ils ne sont pas mélangés sous prétexte de se contrebalancer. Il n’y a de contre-pouvoir, dans la Cité, que le Peuple souverain qui est la source de tout pouvoir.
 
-##ORGANISATION ECONOMIQUE, FONCTIONS CITOYENNES & DROITS EXCLUSIFS DES CITOYENS NATIONAUX 
+### ORGANISATION ECONOMIQUE, FONCTIONS CITOYENNES & DROITS EXCLUSIFS DES CITOYENS NATIONAUX 
 Explications
 
 Quiconque est admis à participer à la vie de la Cité et participe effectivement est Citoyen. La Citoyenneté est donc à la portée du premier venu. Cependant la gestion politique et économique de la Cité nécessite la mise en place d’institutions qui, en tant qu’organes vitaux, ne peuvent être composées ni d’indifférents ni de traîtres potentiels ni d’apparatchiks.
@@ -464,37 +464,38 @@ Doivent donc être distingués les simples Citoyens de France qui s’acquittent
 
 Toutes les Commissions agissent selon la loi, sous la surveillance des Municipes (voir Organisation politique de la Cité) et sous l’autorité du T.O.P. (Tribunal de l’Opinion Publique). Leurs décisions ayant un caractère populaire sont a priori sans appel. Elles ont toutes une fonction locale, sauf le T.O.P. dont la fonction est nationale. Leurs membres sont passibles de bannissement en cas d’abus de pouvoir, de complaisance, de corruption, etc.. Les membres des Commissions sont appelés « Commissaires », ceux du T.O.P. « Censeurs » et ceux des Jurys « Jurés ». Les Commissaires sont tirés au sort parmi les Citoyens français de l’arrondissement de la Commission (un demi Département ou un Département peu peuplé), tandis que Jurés et Censeurs sont tirés au sort parmi les Citoyens français du Département. Ils siègent tous un an et sont renouvelés par tiers, sauf les Jurés qui siègent un mois (sauf cas particulier). Tout Citoyen français, à l’exception des retraités, est tenu de répondre à l’appel de la Cité, sauf pour être Censeur. Les Commissions des Cartes, appelées Banques (de données), qui ne font que stocker et relayer les informations, n’ont aucun pouvoir décisionnel et, de ce fait, sortent du schéma général : elles fonctionnent comme des entreprises et leurs membres, appelés « Banquiers », ne sont pas tirés au sort mais recrutés par elles parmi les Citoyens français.
 
-###Commission de Naturalisation :
+### Commission de Naturalisation :
 
 Nul ne naît français. La Nationalité s’acquiert, pour tous, par mérite. La première condition pour y prétendre est de satisfaire des critères établis par la loi attestant autant que faire se peut la francité des intéressés et leurs capacités à remplir les devoirs attachés à la Nationalité. C’est aux Commissions de Naturalisation qu’il appartient de vérifier que les prétendants y répondent, de faire passer les tests, de décider la question, de convoquer les « reçus » à la cérémonie de naturalisation et de relancer ceux qui n’ont pas encore accompli leur Service national (condition pour jouir des droits politiques) dans le délai imparti.
 
-###Commission Sol, Espace & Logement :
+### Commission Sol, Espace & Logement :
 
 Le territoire national est la propriété inaliénable de la Nation. Les hommes en ont cependant besoin, au moins pour se loger et travailler. La Cité doit donc leur permettre d’y accéder et fixer les droits en fonction des statuts et des projets. Les cas de figure sont innombrables. C’est aux Commissions Sol, Espace & Logement qu’il appartient de connaître l’état et l’occupant de la moindre parcelle de sol, d’examiner les demandes dans les plus brefs délais, d’y répondre dans l’ordre de présentation, de les approuver si elles sont conformes à la loi, de les rejeter dans le cas contraire, de valider ou de casser les opérations effectuées sans qu’elle ait été consultée.
 
-###Commission des Conventions :
+### Commission des Conventions :
 
 Un Citoyen a le Devoir de participer à la vie de la Cité selon ce qu’elle considère comme une participation. C’est donc la Cité qui juge la réalité et l’utilité de la participation et fixe les critères, appelés « Conventions », permettant d’en juger. Une entreprise composée de Citoyens a le même Devoir, les exigences de la Cité — en terme de volume de ventes ou nombre de clients minimums à atteindre — étant fonction du nombre d’employés, de la nature de sa production et de son objet social. La Commission des Conventions, qui représente la Cité en la matière, est divisée en autant de Sections qu’il y a de secteurs d’activité. Les créateurs d’entreprise et les Citoyens participant à la vie de la Cité en dehors d’une entreprise doivent s’adresser à la Section concernée pour connaître les Conventions qu’ils (ou leur entreprise) doivent respecter et les sanctions automatiques auxquelles ils (ou elle) s’exposent en cas de manquement. L’évolution des situations est prévue par les Conventions qui, concernant les résultats à atteindre, se présentent sous forme de grilles. La forme de la validité des Cartes civiques (moyen d’accéder au marché) des particuliers est également précisée dans les Conventions. La Commission ne juge pas les projets : elle se borne à fixer les Conventions que les intéressés doivent respecter et à transmettre le dossier à la Commission des Cartes, laquelle leur délivre les Cartes appropriées.
 
-Nota : Les résultats minimums dits conventionnels qu’une entreprise doit atteindre sont affaire de bon sens. Ils ne définissent pas le potentiel maximum de l’entreprise. Ils sont simplement une base pour que la Cité juge de son sérieux et de la pertinence de son existence. Ils ne tiennent pas compte de ce qu’elle produit mais de ce qu’elle vend, car ce sont les ventes qui attestent de son utilité et de la qualité de ses produits. Produire sans vendre n’a aucun intérêt d’un point de vue de la Cité et ne justifie en aucune manière que les employés d’une entreprise inutile (à tort ou à raison) aient le droit d’accéder au marché, donc d’en retirer des biens en échange de rien. Enfin, dans un contexte de libre concurrence, les entreprises ne peuvent pas suspendre leur activité une fois leurs résultats conventionnels atteints, ce qui, d’une part est illégal, ce qui, d’autre part, leur fait perdre des clients et les exposent à terme à des sanctions. Autrement dit, les entreprises font ce qu’elles doivent sans se soucier de leurs Conventions. Ainsi, les Conventions ne servent qu’à dissuader les escrocs et les dilettantes de se lancer dans la création d’entreprise, à stimuler les entreprises en déclin ou à les liquider.
+### Nota :
+Les résultats minimums dits conventionnels qu’une entreprise doit atteindre sont affaire de bon sens. Ils ne définissent pas le potentiel maximum de l’entreprise. Ils sont simplement une base pour que la Cité juge de son sérieux et de la pertinence de son existence. Ils ne tiennent pas compte de ce qu’elle produit mais de ce qu’elle vend, car ce sont les ventes qui attestent de son utilité et de la qualité de ses produits. Produire sans vendre n’a aucun intérêt d’un point de vue de la Cité et ne justifie en aucune manière que les employés d’une entreprise inutile (à tort ou à raison) aient le droit d’accéder au marché, donc d’en retirer des biens en échange de rien. Enfin, dans un contexte de libre concurrence, les entreprises ne peuvent pas suspendre leur activité une fois leurs résultats conventionnels atteints, ce qui, d’une part est illégal, ce qui, d’autre part, leur fait perdre des clients et les exposent à terme à des sanctions. Autrement dit, les entreprises font ce qu’elles doivent sans se soucier de leurs Conventions. Ainsi, les Conventions ne servent qu’à dissuader les escrocs et les dilettantes de se lancer dans la création d’entreprise, à stimuler les entreprises en déclin ou à les liquider.
 
-###Commission de Révision :
+### Commission de Révision :
 
 De manière générale, il appartient aux intéressés (particuliers comme entreprises) de faire tout ce qui est en leur pouvoir (recrutement, licenciement, modernisation, innovation) pour respecter leurs Conventions et échapper ainsi aux sanctions prévues. Il peut néanmoins arriver que les capacités d’une entreprise aient été surestimées ou qu’un accident compromette malgré elle son activité pour un certain temps. Dans ce cas, les Conventions peuvent être révisées et la Commission de Révision, indépendante de la Commission des Conventions, est instituée à cette fin.
 
-###Commission des Cartes :
+### Commission des Cartes :
 
 Toutes les Commissions sont en relation avec la Commission des Cartes locale. Elles lui transmettent les informations de son ressort afin qu’elle mette à jour les données en question. Toutes les Commissions des Cartes constituent un réseau et alimentent une banque de données nationale que les Commissions peuvent consulter pour avoir les informations dont elles ont besoin et auxquelles elles ont le droit d’accéder. Les Commissions des Cartes tiennent leur nom officiel du fait qu’elles remettent aux particuliers et aux entreprises de leur arrondissement les Cartes d’accès au marché et qu’elles s’occupent des infrastructures que l’usage des Cartes implique. Mais elles peuvent aussi être appelées « Banques », d’une part parce qu’elles remplacent les banques du système monétaire, d’autre part parce que leur autre fonction est de gérer la banque de données.
 
-###Commission de Contrôle :
+### Commission de Contrôle :
 
 Toutes les Commissions d’ordre économique, ainsi que les entreprises, sont sous la surveillance directe de la Commission de Contrôle qui est en quelque sorte le bureau d’« inspection du travail ». Ses Commissaires sont investis de tout pouvoir pour aller partout, pour tout voir, pour convoquer qui bon leur semble, pour transmettre des dossiers à la Justice ou pour sanctionner eux-mêmes (collectivement) le cas échéant. Il est possible de faire appel de ses décisions devant les tribunaux, lesquels doublent la sanction si elle était justifiée et mesurée. La Commission de Contrôle reçoit toutes les plaintes relevant de ses compétences, lesquelles peuvent émaner de particuliers, d’entreprises, de Commissaires ou de Municipes. Elle est elle-même sous l’autorité du T.O.P. auquel les plaintes la concernant doivent être adressées.
 
-###Les droits politiques et particuliers des Citoyens français :
+### Les droits politiques et particuliers des Citoyens français :
 
 La Nationalité revêt une importance capitale dans la Cité dans la mesure où les Citoyens nationaux participent réellement, directement et à tous les niveaux à la gestion de leur Cité. Etre Français n’est pas un vain mot. Cela implique un dévouement sans faille envers la France et exclut toute allégeance à tout autre pays. Cela confère des devoirs, des droits et des devoirs-droits, c’est-à-dire des droits qui sont en même temps des devoirs. Seuls des Citoyens français peuvent, comme il a été dit, être Commissaires, Banquiers, Censeurs ou Jurés ; eux seuls sont électeurs et éligibles ; eux seuls peuvent faire les lois, en réclamer ou contester celles en vigueur ; eux seuls peuvent être Gardes nationaux, policiers (nationaux ou municipaux), militaires, magistrats, enseignants, employés des services publics et des entreprises relevant de l’intérêt national ; enfin, eux seuls ont le droit de disposer pour y habiter ou l’exploiter d’une portion du territoire national qu’ils sont prêts à défendre. Nul n’acquiert ces droits, ni aucun autre, à la naissance. N’en jouissent que ceux qui les méritent.
 
-##POUR QUAND LA REVOLUTION ? Courbes des évolutions techniques et politiques 
+## POUR QUAND LA REVOLUTION ? Courbes des évolutions techniques et politiques 
 Explications
 
 Ce qui suit relève exclusivement de l’intuition et du bon sens. Il est impossible d’établir avec une rigueur scientifique des courbes de phénomènes dont on ne peut définir l’unité de mesure.
@@ -520,7 +521,7 @@ Courbe
 
 Laquelle de toutes ces hypothèses est-elle in fine la moins absurde ? Il appartient à chacun de répondre à cette question. L’avenir mettra tout le monde d’accord.
 
-##EGALITE & EGALITARISME
+## EGALITE & EGALITARISME
 
 Les détracteurs de l’Egalité critiquent en fait l’égalitarisme. Les partisans de l’égalitarisme se prennent pour les champions de l’Egalité. Ni les uns ni les autres ne savent ce qu’est réellement l’Egalité.
 
@@ -592,7 +593,7 @@ En vérité, l’égalitarisme est la seule version possible de l’Egalité dan
 
 04 juillet 2011
 
-##LE VRAI LIBERALISME
+## LE VRAI LIBERALISME
 
 Une philosophie économique vantée et surtout adoptée par une société doit être profitable d’un point de vue général et particulier et intégrer le fait que les acteurs économiques (producteurs et consommateurs) sont des citoyens, sous peine de bafouer leur citoyenneté, violer leurs droits, anéantir l’Egalité et finalement ériger un système antisocial. Or nous savons que la négation de la citoyenneté dans le système monétaire est moins une démarche volontaire des hommes qu’une conséquence inéluctable de Largent. Le vrai libéralisme — par opposition au capitalo-libéralisme, c’est-à- dire au libéralisme faussé par Largent — doit donc être pensé dans le cadre d’une société et d’un système non-monétaire dans lequel les individus tiennent tous leurs droits de la citoyenneté, laquelle se mérite par l’accomplissement de devoirs envers la cité.
 
@@ -656,7 +657,7 @@ Un sûr garant que cette conception est bien de gauche, au sens historique, est 
 
 Cette définition qui ignore Largent est d’autant plus extraordinaire qu’elle émane d’un homme qui ne le remit jamais en cause intellectuellement et qui, d’ailleurs, n’aurait pu lui échapper techniquement. Elle est donc incomplète : elle omet notamment d’indiquer comment un bien devient une propriété légitime dans l’absolu ; elle est absurde ou du moins inapplicable dans un contexte monétaire : la monnaie confère seule la propriété et fausse tout ; mais elle est juste du point de vue des principes de l’ordre social. Robespierre n’a pas plus résolu les contradictions du système monétaire qu’il n’est tombé dans ses pièges ; il les a dépassées pour fixer le but atteindre. Il a reconnu la nécessité et le droit pour les individus de posséder des biens, mais il a fait remarquer, dans le même temps, que la possession n’existe qu’à l’abri de la société, que cette dernière, qui incarne l’ensemble des citoyens, ne peut user de sa force pour assurer aux uns des droits préjudiciables aux droits des autres et donc qu’elle n’a pas à regarder comme la propriété des particuliers les biens qui présentent ce risque par nature ou qui, entre certaines mains, sont devenus un fléau. Un citoyen ne peut posséder que les biens sur lesquels la cité, gardienne de l’intérêt général, lui reconnaît ce droit, et tant qu’elle le lui reconnaît, d’où l’expression « portion de bien qui lui est garantie par la loi ». Cette définition condamnait autant le capitalo-libéralisme que le communisme ; elle était sociale et libérale ; elle est toujours révolutionnaire.
 
-##QU’EST-CE QUE LE CIVISME ?
+## QU’EST-CE QUE LE CIVISME ?
 
 Un lecteur a tapé ces mots dans le moteur de recherche : « quelle est la définition du concept civisme dans un sens large ». Ce blog est en effet dédié au Civisme. La plupart des articles y font directement ou indirectement référence. Mais l’essentiel se perd sans doute dans cette masse d’informations. Il m’a donc semblé utile d’en exposer brièvement les grandes lignes.
 
@@ -706,7 +707,7 @@ A Largent s’ajoute la monnaie qui, elle, fonctionne selon deux principes : 1) 
 
 Non seulement l’Egalité est impossible sous Largent, mais il est dans la nature du système monétaire que les inégalités s’accroissent inexorablement. Il est donc inutile de s’en désoler et de dénoncer tel ou tel si l’on cautionne soi-même Largent. Ce ne sont pas les conséquences de Largent qu’il faut combattre (en vain), ni même les individus qui profitent de cet ordre des choses inégalitaire, arbitraire et branlant ; c’est Largent lui-même qu’il faut anéantir. Il s’agit d’ailleurs moins d’être contre Largent que pour l’Egalité.
 
-##CONCLUSION
+## CONCLUSION
 
 Qu’est-ce que le Civisme ? C’est un corps de Principes et de concepts pour la plupart révolutionnaires (exposés dans le Manifeste des Patriciens), une approche nouvelle des problèmes politico-économiques, une redéfinition de tous les termes ayant une portée sociale — tels que Devoirs, Droits, Citoyenneté, Nationalité, Démocratie, etc. —, un changement de paradigme et une vision claire de la Société, dite Cité. Il repose sur deux réflexions : la première sur Largent, terme propre au Civisme, la deuxième sur l’Egalité, comme personne ne l’a jamais vue. Il s’articule autour d’une proposition, celle d’une Carte civique, à la fois moyen d’échange et vecteur des Principes de l’ordre social. C’est elle qui permet d’un côté d’instaurer et de maintenir l’Egalité, de l’autre d’éliminer Largent (et la monnaie avec lui) et, du coup, de comprendre ce qu’il est — puisque on ne sait vraiment ce que l’on perd qu’après l’avoir perdu.
 
