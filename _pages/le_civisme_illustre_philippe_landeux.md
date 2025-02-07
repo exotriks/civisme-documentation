@@ -177,6 +177,10 @@ Largent a ses lois. La monnaie a ses lois. Toutes ces lois s’imposent aux homm
 
 27 mai 2011
 
+![Schéma devoirs et droits](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-schema-devoirs-et-droits.jpg)
+
+![égalité-principe-fondamental-de-l-ordre-social](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-l-egalite-comme-principe-fondamental-de-l-ordre-social.jpg)
+
 « Vous voulez les misérables secourus, moi je veux la misère supprimée. » Victor Hugo
 
 ## THEORIES DU CIVISME
