@@ -22,7 +22,7 @@ layout: post
 
 « Largent est une croyance, Néo, et cette croyance est notre ennemie. Quand on est dans le système monétaire, qu’est-ce qu’on voit partout ? Des hommes d’affaire, des enseignants, des avocats, des charpentiers. C’est avec leur esprit qu’on communique pour essayer de les affranchir. Mais en attendant, tous ces gens sont quand même des valets de Largent, ce qui fait d’eux nos ennemis. Ce qu’il faut que tu comprennes, c’est que pour la plupart ils ne sont pas prêts à remettre en cause leurs préjugés. Bon nombre d’entre eux sont tellement inconscients et désespérément dépendants du système qu’ils vont jusqu’à se battre pour le protéger. »
 
-![Néo, déconnecté de la Matrice, découvrant de ses yeux la vérité et l’horreur de la condition humaine dans le monde réel, dominé par les machines](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/assets/images/illustrations/Néo%2C déconnecté de la Matrice%2C découvrant de ses yeux la vérité et l’horreurde la condition humaine dans le monde réel%2C dominé par les machines.jpg)
+![Néo](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/assets/images/illustrations/Néo%2C%20déconnecté%20de%20la%20Matrice%2C%20découvrant%20de%20ses%20yeux%20la%20vérité%20et%20l’horreur%20de%20la%20condition%20humaine%20dans%20le%20monde%20réel%2C%20dominé%20par%20les%20machines.jpg)
 
 ## AVANT PROPOS
 
