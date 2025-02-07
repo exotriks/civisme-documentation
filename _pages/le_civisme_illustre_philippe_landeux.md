@@ -90,6 +90,8 @@ Pensée du jour, 23 septembre 2011
 
 ![Dessin personnel, Le pognon, réalisé 1998](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/Philippe-Landeux-dessin-Largent.jpg)
 
+![La racine](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-largent-est-la-racine-du-probleme.jpg)
+
 ## QU’EST-CE QUE LARGENT ?
 
 Origines et conséquences du troc et de la monnaie
