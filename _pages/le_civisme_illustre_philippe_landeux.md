@@ -270,6 +270,8 @@ Il est impossible et même inutile d’en dire davantage ici. Nous en avons d’
 Telles sont les conceptions de base du Civisme, une théorie révolutionnaire inédite, même si par certains aspects elle en rappelle d’autres. Ces lignes sont les premières à être publiées. Si vous ne deviez en retenir qu’une chose, souvenez-vous toujours que Largent est l’obstacle à l’Égalité, au respect des Principes de l’ordre social, à l’établissement de la Cité. Il est le véritable ennemi de l’Humanité, le seul ennemi à abattre. Il suffit d’ailleurs de constater que le monde marche sur la tête et tourne autour de lui (à travers la monnaie) pour comprendre qu’il est la clé de voûte du système actuel, son point fort et son point faible, et que c’est sur lui que la prochaine révolution (ou évolution révolutionnaire) devra porter ses coups sous peine d’être un nouveau coup pour rien.
 17 novembre 2007
 
+![Les différents niveaux de Devoirs et de Droits](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/illustrations/civisme-les-trois-niveaux-de-droits-et-de-devoirs-fondamentaux-indirects-particuiers.jpeg)
+
 ## DEVOIRS, DROITS & EGALITE
 les différents niveaux de devoirs et de droits
 Explications
