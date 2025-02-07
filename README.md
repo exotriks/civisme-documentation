@@ -12,6 +12,7 @@ Pour lire les ouvrages en ligne [cliquez ici](https://exotriks.github.io/civisme
 
 - [Principes Universels De L'Ordre Social](https://exotriks.github.io/civisme-documentation/pages/principes_universels_de_l_ordre_social_philippe_landeux/)
 - [Le Civisme ou Théorie de la Cité](https://exotriks.github.io/civisme-documentation/pages/le_civisme_ou_theorie_de_la_cite_philippe_landeux/)
+- [Le Civisme illustré](https://exotriks.github.io/civisme-documentation/pages/le_civisme_illustre_philippe_landeux/)
 - [Le manifeste des Patriciens](https://exotriks.github.io/civisme-documentation/pages/le_manifeste_des_patriciens_phillipe_landeux/)
 - [Réquisitoire contre Largent](https://exotriks.github.io/civisme-documentation/pages/requisitoire_contre_largent_philippe_landeux/)
 - [Révolution](https://exotriks.github.io/civisme-documentation/pages/revolution_phillipe_landeux/)
