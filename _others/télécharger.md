@@ -29,7 +29,7 @@ layout: post
 
 ![Couverture - Le Civisme ilustré - verso - Philippe Landeux](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/images/covers/recto/couverture_le_civisme_illustre_philippe_landeux_recto_648x960.jpg)
 
-### :inbox_tray: Télécharger Le Civisme illustré
+## :inbox_tray: Télécharger Le Civisme illustré
 
 - :blue_book: [PDF](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/Le%20Civisme%20illustré%20-%20Philippe%20Landeux.pdf)
 - :page_facing_up: [TXT](https://cdn.jsdelivr.net/gh/exotriks/civisme-documentation/assets/le_civisme_illustré_philippe_landeux.txt)
