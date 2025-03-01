@@ -6,7 +6,7 @@ language: fr
 layout: post
 ---
 
-# 🎯 **Introduction**  
+## 🎯 **Introduction**  
 
 Pour qu’une **véritable association politique** existe, **les Citoyens doivent être égaux en Devoirs et en Droits**. L’**Égalité** est donc le **fondement** de la Cité. Bien que proclamée depuis l’Antiquité, elle reste **mal définie** et inexplorée dans ses implications concrètes.  
 
@@ -30,7 +30,7 @@ Dans la **Nature**, l’individu est **autonome** mais **vulnérable**. La force
 
 ---
 
-## 🛡️ **Sécurité et Société**  
+### 🛡️ **Sécurité et Société**  
 
 Le **premier objectif** de toute **Société** est la **Sécurité**. Peu importe sa taille, elle doit **protéger mieux** que l’isolement.  
 
@@ -51,7 +51,7 @@ Même le plus fort a **intérêt à respecter la réciprocité**, sous peine d�
 
 ---
 
-# 🦅 **Les Sociétés Animales et l’Égalité**  
+### 🦅 **Les Sociétés Animales et l’Égalité**  
 
 Chez les **herbivores**, la **Sécurité** vient du **nombre** : plus le **troupeau** est grand, plus le **risque individuel diminue**.  
 Leur seul **Devoir** est de **rester groupés**.  
@@ -70,7 +70,7 @@ Cependant, la **Société** ne doit garantir **que les Droits liés aux Devoirs 
 
 ---
 
-## 🔹 **Les Quatre Droits Fondamentaux des Sociétés Animales**  
+### 🔹 **Les Quatre Droits Fondamentaux des Sociétés Animales**  
 
 1️⃣ **Ne pas être tué** par ses Concitoyens.  
 2️⃣ **Être défendu** en cas de danger.  
@@ -83,7 +83,7 @@ Si chaque membre **remplit ses Devoirs** et **bénéficie des Droits corresponda
 
 ---
 
-# ⚖️ **Domination et Égalité**  
+### ⚖️ **Domination et Égalité**  
 
 Certains objecteront que la **domination** chez les animaux contredit l’**Égalité**, car les **dominants** mangent en **premier** ou **monopolisent** les femelles.  
 
@@ -95,11 +95,11 @@ Une **Société inégalitaire** est une où **les Droits augmentent avec le pouv
 
 📌 **Or, une hiérarchie fondée sur la spécialisation des rôles n’implique pas d’inégalité**, sauf si les **Droits deviennent matérialisés et cumulables**.  
 
-> **Sans hiérarchie, une Société sombre vite dans l’anarchie ou la tyrannie, trop désorganisée pour prospérer ou trop faible pour se défendre.**  
+>Sans hiérarchie, une Société sombre vite dans l’anarchie ou la tyrannie, trop désorganisée pour prospérer ou trop faible pour se défendre.
 
 ---
 
-# 🎓 **Citoyenneté et Droits**  
+### 🎓 **Citoyenneté et Droits**  
 
 Un point fondamental : **les petits ne sont pas des Citoyens.**  
 
@@ -111,7 +111,7 @@ Certaines espèces **abandonnent leurs petits** après le **sevrage**, d’autre
 
 ---
 
-## 🏥 **Protection des faibles**  
+### 🏥 **Protection des faibles**  
 
 De même, les **malades, blessés et vieillards**, incapables de remplir leurs **Devoirs**, sont souvent **abandonnés dans la nature**.  
 
@@ -125,9 +125,9 @@ Pourquoi ?
 
 ---
 
-# 🔓 **Liberté et Sécurité**  
+### 🔓 **Liberté et Sécurité**  
 
-## ❌ **La Fausse Liberté de l’État de Nature**  
+### ❌ **La Fausse Liberté de l’État de Nature**  
 
 La **"liberté naturelle"**, où chacun ferait ce qu’il veut, est une **illusion**.  
 
@@ -139,7 +139,7 @@ Cette vision **idéalisée** vient d’hommes **opprimés**, cherchant dans la N
 
 ---
 
-## 🏛️ **La Liberté dans la Cité**  
+### 🏛️ **La Liberté dans la Cité**  
 
 📌 **Tous les Droits sont des libertés, donc des possibilités d’action.**  
 
@@ -158,19 +158,19 @@ En remplissant leurs **Devoirs**, les Citoyens **acquièrent le Droit** de profi
 
 ---
 
-# 🎯 **Les Niveaux de Devoirs et de Droits**  
+### 🎯 **Les Niveaux de Devoirs et de Droits**  
 
 Un **Devoir** est une **obligation envers la Cité**, un **Droit**, une **liberté garantie par elle**.  
 
-### 📌 **Trois niveaux existent :**  
+#### 📌 **Trois niveaux existent :**  
 
-### 1️⃣ **Fondamentaux**  
+#### 1️⃣ **Fondamentaux**  
 ➡️ Définissent la **Citoyenneté** (*participation à la vie collective, Défense de la Cité, Sécurité et Liberté*).  
 
-### 2️⃣ **Indirects**  
+#### 2️⃣ **Indirects**  
 ➡️ Déclinaisons **concrètes** des principes fondamentaux.  
 
-### 3️⃣ **Particuliers**  
+#### 3️⃣ **Particuliers**  
 ➡️ Résultent **de l’exercice des précédents**.  
 
 🔹 **Exemple :** Le **Devoir de participation** se traduit par **le Travail** ou l’engagement civique, constituant des **Devoirs indirects**.  
@@ -188,7 +188,7 @@ Si une **liberté est accordée**, la **Cité doit la garantir**, sans quoi elle
 
 ---
 
-# 🏛️ **Le Droit d’Accéder au Marché et la Propriété**  
+### 🏛️ **Le Droit d’Accéder au Marché et la Propriété**  
 
 📌 **L’accès au marché découle du Droit fondamental de profiter des biens de la Cité.**  
 
@@ -199,7 +199,7 @@ Si une **liberté est accordée**, la **Cité doit la garantir**, sans quoi elle
 
 ---
 
-# 🚦 **Les Limites des Droits**  
+### 🚦 **Les Limites des Droits**  
 
 📌 Un **Droit** confère **une liberté limitée** par plusieurs facteurs :  
 
@@ -218,7 +218,7 @@ Si une **liberté est accordée**, la **Cité doit la garantir**, sans quoi elle
 
 ---
 
-# ⚖️ **Les Fondements de la Cité selon le Civisme**  
+### ⚖️ **Les Fondements de la Cité selon le Civisme**  
 
 📌 **La Cité repose sur les lois naturelles de l’association politique, où l’Égalité est primordiale.**  
 
@@ -238,7 +238,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# 🚫 **Largent : L’Obstacle à la Cité**  
+### 🚫 **Largent : L’Obstacle à la Cité**  
 
 📌 **Le principal obstacle à la Cité est Largent, source d’individualisme et d’inégalité.**  
 
@@ -247,7 +247,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# 💰 **Moyen d’Échange, Monnaie et Largent**  
+### 💰 **Moyen d’Échange, Monnaie et Largent**  
 
 📌 **Trois notions sont souvent confondues :**  
 
@@ -259,7 +259,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# ⚠️ **Largent et l’Échange Individualiste**  
+### ⚠️ **Largent et l’Échange Individualiste**  
 
 📌 **Largent repose sur une logique d’échange individualiste issue du troc.**  
 
@@ -271,7 +271,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# ❓ **Pourquoi s’opposer à Largent ?**  
+### ❓ **Pourquoi s’opposer à Largent ?**  
 
 📌 **Largent est incompatible avec l’Égalité.**  
 
@@ -282,7 +282,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# 🔄 **Le Moyen d’Échange, Moteur de la Société**  
+### 🔄 **Le Moyen d’Échange, Moteur de la Société**  
 
 📌 **L’expérience monétaire montre que toute Société repose sur l’échange et que son moyen d’échange façonne ses structures.**  
 
@@ -297,7 +297,7 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 ---
 
-# 🧠 **L’Homme Face à Largent**  
+### 🧠 **L’Homme Face à Largent**  
 
 📌 **L’Homme, persuadé d’être maître de son destin, refuse d’admettre qu’il est conditionné par un système qu’il n’a pas choisi.**  
 
@@ -307,36 +307,35 @@ Son but est d’**assurer l’exercice des facultés** et **l’accès aux avant
 
 📌 **Une démocratie réelle ne peut exister sans Égalité en Droits**, car **dans un monde dominé par Largent, ces Droits sont inévitablement bafoués**.  
 
-📖 *(34) Rousseau écrivait :*  
-> **« La force des choses tend toujours à détruire l’égalité, et la force de la législation doit toujours tendre à la maintenir. »**  
-> *(Du Contrat Social, Livre II, Chap. 11)*  
+>📖 *Rousseau écrivait :*  
+*« La force des choses tend toujours à détruire l’égalité, et la force de la législation doit toujours tendre à la maintenir. » (Du Contrat Social, Livre II, Chap. 11)*  
 
 📌 **En réalité, seul un moyen d’échange aligné sur les Principes sociaux peut ancrer durablement l’Égalité.**
 
 ---
 
-# 🚀 **La Mission des Révolutionnaires**  
+### 🚀 **La Mission des Révolutionnaires**  
 
 Le **rôle central** des révolutionnaires est **d’instaurer un moyen d’échange égalitaire**.  
 
-📌 **Une fois cet objectif atteint, l’Égalité règnera, la Cité sera fondée et la Révolution sera achevée.** *(35)*  
+📌 **Une fois cet objectif atteint, l’Égalité règnera, la Cité sera fondée et la Révolution sera achevée.** 
 Il reviendra alors **aux Citoyens** d’en assurer **le fonctionnement**.  
 
-> *(35) Ici, Révolution désigne une transformation radicale et progressive, et non une rupture brutale, vouée à l’échec.*  
-> *(36) Une fois sa mission accomplie, le parti révolutionnaire devra disparaître ou devenir un parti parmi d’autres.*  
+>📖 *Ici, Révolution désigne une transformation radicale et progressive, et non une rupture brutale, vouée à l’échec.*  
+>📖 *Une fois sa mission accomplie, le parti révolutionnaire devra disparaître ou devenir un parti parmi d’autres.*  
 
 Les révolutionnaires **n’ont pas à concevoir chaque détail** de la Cité post-révolutionnaire.  
 📌 **L’essentiel est d’abolir la monnaie et d’introduire un moyen d’échange garantissant l’Égalité.**  
 
-> *(37) Une fois Largent supprimé, les Citoyens croiront être les seuls artisans du changement, alors que le nouveau moyen d’échange en sera le moteur.*  
+>📖 *Une fois Largent supprimé, les Citoyens croiront être les seuls artisans du changement, alors que le nouveau moyen d’échange en sera le moteur.*  
 
-Toute **dispersion des efforts** sur d’autres sujets **affaiblirait la Révolution** *(38)*.  
+Toute **dispersion des efforts** sur d’autres sujets **affaiblirait la Révolution**.  
 
-> *(38) Se concentrer sur des réformes secondaires avant d’établir l’Égalité détournerait l’attention de l’essentiel et retarderait la Révolution.*  
+>📖 *Se concentrer sur des réformes secondaires avant d’établir l’Égalité détournerait l’attention de l’essentiel et retarderait la Révolution.*  
 
 ---
 
-# 🔮 **Anticiper l’Après-Révolution**  
+### 🔮 **Anticiper l’Après-Révolution**  
 
 Un **nouveau moyen d’échange** transformera les **structures existantes**, rendant **obsolètes** de nombreux **mécanismes économiques et législatifs**.  
 
@@ -346,14 +345,14 @@ Bien que **tout finira par s’adapter naturellement**, anticiper certains **aju
 
 ---
 
-# 🏛️ **Les Patriciens : Nom des Partisans du Civisme**  
+### 🏛️ **Les Patriciens : Nom des Partisans du Civisme**  
 
 Les **principes sont posés**, l’objectif est **clair**, mais **comment nommer les partisans du Civisme ?**  
 
 📌 **Le terme "Civistes" manque d’impact** et n’évoque **pas la nature du Civisme**.  
-📌 **De plus, les suffixes en "-iste" sont trop connotés.** *(39)*  
+📌 **De plus, les suffixes en "-iste" sont trop connotés.**  
 
-> *(39) Il en va de même pour les idéologies en "-isme", mais "Civisme", étant un mot existant, s’est imposé naturellement.*  
+> *Il en va de même pour les idéologies en "-isme", mais "Civisme", étant un mot existant, s’est imposé naturellement.*  
 
 📌 **Le terme "Citoyens" serait une erreur.**  
 
@@ -365,7 +364,7 @@ L’**Égalité** n’étant **pas encore établie**, il n’y a pas de véritab
 
 ---
 
-## 🤔 **Pourquoi "Patriciens" ?**  
+### 🤔 **Pourquoi "Patriciens" ?**  
 
 📌 **Ce terme présente plusieurs avantages :**  
 
@@ -383,7 +382,7 @@ L’**Égalité** n’étant **pas encore établie**, il n’y a pas de véritab
 
 ---
 
-# 🔥 **Un Nom Qui Inspire la Noblesse**  
+### 🔥 **Un Nom Qui Inspire la Noblesse**  
 
 📌 **Les révolutionnaires ont besoin d’un nom valorisant.**  
 
@@ -393,23 +392,23 @@ L’**Égalité** n’étant **pas encore établie**, il n’y a pas de véritab
 📌 **Une Révolution est une œuvre noble.**  
 📌 **Ceux qui la portent doivent l’être aussi et aspirer à diffuser cette noblesse.**  
 
-🚀 **Un mouvement révolutionnaire mérite un nom digne de son ambition.** 🚀
+🚀 **Un mouvement révolutionnaire mérite un nom digne de son ambition.** 
 
 ---
 
-# 📜 **Le Contrat Social : Fondement Unique de la Cité**  
+## 📜 **Le Contrat Social : Fondement Unique de la Cité**  
 
-Les **Citoyens d’une Cité** sont unis par des **Devoirs garantissant à chacun les mêmes Droits**, définis dans **un engagement unique** : le **Contrat Social** *(43)*.  
+Les **Citoyens d’une Cité** sont unis par des **Devoirs garantissant à chacun les mêmes Droits**, définis dans **un engagement unique** : le **Contrat Social**.  
 
-> 📖 *(43) Contrairement à Rousseau, qui évoque un principe général sans clauses précises (Du Contrat Social, Livre I, Chap. 6), nous proposons ici un contrat détaillé.*  
+> 📖 *Contrairement à Rousseau, qui évoque un principe général sans clauses précises (Du Contrat Social, Livre I, Chap. 6), nous proposons ici un contrat détaillé.*  
 
-Ce **contrat établit une Citoyenneté commune** fondée sur **l’Égalité en Devoirs et en Droits**, **socle de l’ordre social** *(44)*.  
+Ce **contrat établit une Citoyenneté commune** fondée sur **l’Égalité en Devoirs et en Droits**, **socle de l’ordre social**.  
 
-> 📖 *(44) Rousseau exprimait une idée similaire : « Les engagements qui nous lient au corps social ne sont obligatoires que parce qu’ils sont mutuels… » (Du Contrat Social, Livre II, Chap. 4).*  
+> 📖 *Rousseau exprimait une idée similaire : « Les engagements qui nous lient au corps social ne sont obligatoires que parce qu’ils sont mutuels… » (Du Contrat Social, Livre II, Chap. 4).*  
 
 ---
 
-## ❌ **L’impossibilité d’un Contrat Personnalisé**  
+### ❌ **L’impossibilité d’un Contrat Personnalisé**  
 
 Un **Contrat Social unique** est **indispensable**, car un **contrat personnalisé** serait **incohérent** :  
 
@@ -417,13 +416,13 @@ Un **Contrat Social unique** est **indispensable**, car un **contrat personnalis
 ✔️ Certains garantiraient des **Droits aux autres sans réciprocité**.  
 ✔️ L’ensemble de ces contrats aboutirait **de toute façon à un Contrat Social unique**.  
 
-📌 **Si chacun choisissait librement ses engagements, la Cité n’existerait pas, remplacée par l’oppression ou l’anarchie** *(45)*.  
+📌 **Si chacun choisissait librement ses engagements, la Cité n’existerait pas, remplacée par l’oppression ou l’anarchie**.  
 
-> 📖 *(45) Les partisans d’un contrat personnalisé cherchent surtout à échapper aux Devoirs tout en conservant les Droits.*  
+> 📖 *Les partisans d’un contrat personnalisé cherchent surtout à échapper aux Devoirs tout en conservant les Droits.*  
 
 ---
 
-## 📜 **Un Contrat Social Écrit**  
+### 📜 **Un Contrat Social Écrit**  
 
 Contrairement aux animaux qui vivent en société **par instinct**, l’Homme a **altéré ces principes**.  
 
@@ -433,7 +432,7 @@ Si l’on exige **une trace écrite** pour un simple contrat entre individus, **
 
 ---
 
-## 🏛️ **Nature et Rôle du Contrat Social**  
+### 🏛️ **Nature et Rôle du Contrat Social**  
 
 Le **Contrat Social** ne se limite pas à une **déclaration des Droits**, il en **établit les conditions d’existence**. Il définit :  
 
@@ -445,13 +444,13 @@ Le **Contrat Social** ne se limite pas à une **déclaration des Droits**, il en
 
 ---
 
-## 🏗️ **L’Établissement du Contrat Social**  
+### 🏗️ **L’Établissement du Contrat Social**  
 
 La **Cité naît d’un instinct de conservation** : l’union des forces pour garantir les Droits et protéger la communauté.  
 
-📌 **Son fondement est pratique, non philosophique** *(46)*.  
+📌 **Son fondement est pratique, non philosophique**.  
 
-> 📖 *(46) Rousseau considérait que le Contrat Social ne précise pas comment assurer la conservation de la société (Du Contrat Social, Livre II, Chap. 6). Or, un contrat a un but et doit en expliciter les moyens.*  
+> 📖 *Rousseau considérait que le Contrat Social ne précise pas comment assurer la conservation de la société (Du Contrat Social, Livre II, Chap. 6). **Or, un contrat a un but et doit en expliciter les moyens.***  
 
 Bien que **rédigé consciemment**, le Contrat Social **ne peut être arbitraire** :  
 📌 **L’Égalité impose des règles universelles.**  
@@ -460,25 +459,25 @@ Il s’agit donc de **redécouvrir ces principes, non de les inventer**.
 
 ---
 
-## ✍️ **Qui rédige le premier Contrat Social ?**  
+### ✍️ **Qui rédige le premier Contrat Social ?**  
 
-Avant son adoption, **il n’y a ni Citoyenneté ni Citoyens** *(47)*.  
+Avant son adoption, **il n’y a ni Citoyenneté ni Citoyens**.  
 ➡️ **Une assemblée restreinte doit donc rédiger un premier texte, soumis ensuite au vote.**  
 
-> 📖 *(47) Contester l’idée d’un Contrat Social sous prétexte qu’aucun n’existait à la naissance des individus est absurde. Les adultes passent constamment des contrats, pourquoi ne pourraient-ils pas établir celui qui régit la Cité ?*  
+> 📖 *Contester l’idée d’un Contrat Social sous prétexte qu’aucun n’existait à la naissance des individus est absurde. Les adultes passent constamment des contrats, pourquoi ne pourraient-ils pas établir celui qui régit la Cité ?*  
 
 ---
 
-# 📜 **Le Contrat Social : Proposition des Patriciens**  
+### 📜 **Le Contrat Social : Proposition des Patriciens**  
 
 Seuls ceux qui sont **Citoyens en conscience** peuvent proposer **un Contrat Social cohérent**.  
 📌 **Cette tâche revient donc aux Patriciens.**  
 
 ---
 
-## ⚖️ **Fondements du Contrat Social**  
+### ⚖️ **Fondements du Contrat Social**  
 
-### **Considérant que :**  
+#### **Considérant que :**  
 
 ✔️ **Les Droits n’existent qu’en Société**, reposant sur **l’Égalité en Devoirs et en Droits**.  
 ✔️ **Un Contrat Social unique est nécessaire** à cette **Égalité**.  
@@ -488,7 +487,7 @@ Seuls ceux qui sont **Citoyens en conscience** peuvent proposer **un Contrat Soc
 
 ---
 
-## 📊 **Le Référendum sur le Contrat Social : Majorité ou Unanimité ?**  
+### 📊 **Le Référendum sur le Contrat Social : Majorité ou Unanimité ?**  
 
 L’adoption du **Contrat Social** doit-elle être **unanime ou majoritaire** ?  
 
@@ -505,25 +504,24 @@ Une **minorité attachée aux préjugés monétaires** refusera ce Contrat, mais
 📌 **Ils devront adopter le Contrat ou s’exiler.**  
 
 > 📖 *Rousseau écrivait :*  
-> *« Si lors du pacte social il s’y trouve des opposants, leur opposition n’invalide pas le contrat, elle empêche seulement qu’ils n’y soient compris. »*  
-> 📖 *(Du Contrat Social, Livre IV, Chap. 2).*  
+> *« Si lors du pacte social il s’y trouve des opposants, leur opposition n’invalide pas le contrat, elle empêche seulement qu’ils n’y soient compris. » (Du Contrat Social, Livre IV, Chap. 2).*  
 
 ---
 
-## 🗳️ **Le Référendum : Une Formalité Essentielle**  
+### 🗳️ **Le Référendum : Une Formalité Essentielle**  
 
 Les **Patriciens ne prendront le pouvoir qu’avec le soutien du peuple**.  
 📌 **Le référendum sur le Contrat Social ne sera donc qu’une confirmation, mais jouera trois rôles majeurs :**  
 
 1️⃣ **Informer les futurs Citoyens** sur leurs **Devoirs et Droits**.  
-2️⃣ **Donner un mandat clair au gouvernement** pour instaurer **la Carte civique et finaliser la Révolution** *(53)*.  
+2️⃣ **Donner un mandat clair au gouvernement** pour instaurer **la Carte civique et finaliser la Révolution**.  
 3️⃣ **Marquer l’entrée du Peuple Français dans l’ère de l’Égalité et de l’Humanité.**  
 
-> 📖 *(53) Les Révolutions passées ont échoué car Largent a perduré, entraînant des divisions et des luttes de pouvoir. Une Révolution réussie garantit réellement Liberté, Égalité et Justice, la rendant irréversible.*  
+> 📖 *Les Révolutions passées ont échoué car Largent a perduré, entraînant des divisions et des luttes de pouvoir. Une Révolution réussie garantit réellement Liberté, Égalité et Justice, la rendant irréversible.*  
 
 ---
 
-## 📜 **Un Contrat Social Intangible Mais Modifiable**  
+### 📜 **Un Contrat Social Intangible Mais Modifiable**  
 
 📌 **Le Contrat Social restera intangible dans son principe :**  
 ➡️ Devenir **Citoyen** impliquera **de l’accepter et d’en respecter les clauses**.  
@@ -537,31 +535,23 @@ Les **Patriciens ne prendront le pouvoir qu’avec le soutien du peuple**.
 
 ---
 
-✅ **Un Contrat Social clair et universel est la clé d’une Cité stable et juste.**  
-🔹 **Il garantit l’Égalité et fixe les fondements d’une Société harmonieuse.**  
-🔹 **Il permet une organisation durable tout en laissant place à l’évolution future.**  
+### 📜 **Principes et Application du Contrat Social**  
 
-📜 **La Cité repose sur ce pacte entre ses Citoyens.** 🚀
-
----
-
-# 📜 **Principes et Application du Contrat Social**  
-
-Le **Contrat Social** repose sur des **Principes intemporels**, indépendants de leurs **modalités d’application**, qui évoluent selon les circonstances *(54)*.  
+Le **Contrat Social** repose sur des **Principes intemporels**, indépendants de leurs **modalités d’application**, qui évoluent selon les circonstances.  
 Cette flexibilité permet **d’adapter ces Principes** sans provoquer de tensions inutiles.  
 
-> 📖 *(54) Une évolution nécessaire finit toujours par se produire. Un Contrat Social fondé sur des Principes, et non sur des règles figées, s’adapte naturellement.*  
+> 📖 *Une évolution nécessaire finit toujours par se produire. Un Contrat Social fondé sur des Principes, et non sur des règles figées, s’adapte naturellement.*
 
 ---
 
-## 🚫 **Condamnation de la Monnaie et Droit d’Accès au Marché**  
+### 🚫 **Condamnation de la Monnaie et Droit d’Accès au Marché**  
 
 Le **Contrat Social proscrit la monnaie** :  
 
 ✔️ **Article 4a** : Rejet comme **moyen d’échange inégalitaire**.  
 ✔️ **Article 4b** : Suppression de la **notion de valeur marchande et d’unité monétaire**, qui **limitent artificiellement** l’accès au marché.  
 
-### 🔹 **L’accès au marché repose sur trois principes :**  
+#### 🔹 **L’accès au marché repose sur trois principes :**  
 
 1️⃣ **Seuls les Citoyens y ont droit**, la **Citoyenneté** étant obtenue **par participation à la Cité** (*art. 3*).  
 2️⃣ **La Cité doit garantir un accès égal à ses bienfaits** (*art. 4a*).  
@@ -597,17 +587,15 @@ Un **moyen d’échange** est **indispensable** pour garantir **l’accès au ma
 
 ---
 
-## 📉 **Suppression de la Monnaie et Conséquences**  
+### 📉 **Suppression de la Monnaie et Conséquences**  
 
-Dans la **Cité**, ni le **travail** ni les **biens** **n’auront de prix** *(55)*.  
-📌 **L’accès aux ressources dépendra uniquement de la Citoyenneté, identique pour tous** *(56)*.  
+Dans la **Cité**, ni le **travail** ni les **biens** **n’auront de prix.**
+📌 **L’accès aux ressources dépendra uniquement de la Citoyenneté, identique pour tous.**  
 
-> 📖 *(55) Les prix existent uniquement dans un système où le travail est rémunéré en monnaie. Ce n’est pas l’objet qui a un prix, mais le besoin des hommes de monnaie pour échanger.*  
-> 📖 *(56) Contrairement aux systèmes basés sur la valeur, le Droit d’accès sera lié à la Citoyenneté et non à la fonction ou l’activité.*  
+> 📖 *Les prix existent uniquement dans un système où le travail est rémunéré en monnaie. Ce n’est pas l’objet qui a un prix, mais le besoin des hommes de monnaie pour échanger.*  
+> 📖 *Contrairement aux systèmes basés sur la valeur, le Droit d’accès sera lié à la Citoyenneté et non à la fonction ou l’activité.*  
 
----
-
-### 🔹 **Bien que théoriquement illimité, ce Droit sera naturellement borné par :**  
+🔹 **Bien que théoriquement illimité, ce Droit sera naturellement borné par :**  
 
 ✔️ **L’offre disponible**.  
 ✔️ **Le respect des autres Citoyens**, pour un **usage équitable** des ressources.  
@@ -617,7 +605,7 @@ Dans la **Cité**, ni le **travail** ni les **biens** **n’auront de prix** *(5
 
 ---
 
-## 🔐 **Sécurité et Gestion de la Carte Civique**  
+### 🔐 **Sécurité et Gestion de la Carte Civique**  
 
 📌 **La Carte Civique ne confère pas de Droits, mais permet de les exercer.**  
 
@@ -626,7 +614,7 @@ Dans la **Cité**, ni le **travail** ni les **biens** **n’auront de prix** *(5
 
 ---
 
-## 🔄 **Différence avec le Système Monétaire**  
+### 🔄 **Différence avec le Système Monétaire**  
 
 📌 **Contrairement aux cartes bancaires, perdre une Carte Civique ne signifie pas perdre ses droits.**  
 
@@ -637,13 +625,13 @@ Dans la **Cité**, ni le **travail** ni les **biens** **n’auront de prix** *(5
 
 ---
 
-## ❌ **Fausse Perception de la Gratuité**  
+### ❌ **Fausse Perception de la Gratuité**  
 
-Les **capitalistes** *(57)* croient à tort qu’en **l’absence de monnaie**, tout serait **gratuit**.  
+Les **capitalistes** croient à tort qu’en **l’absence de monnaie**, tout serait **gratuit**.  
 
 📌 **Or, l’accès au marché nécessitera la Citoyenneté, obtenue par la participation à la Cité.**  
 
-> 📖 *(57) Est considéré comme capitaliste quiconque défend la monnaie ou s’oppose à l’Égalité et à la Carte Civique.*  
+> 📖 *Est considéré comme capitaliste quiconque défend la monnaie ou s’oppose à l’Égalité et à la Carte Civique.*  
 
 Les **capitalistes** voient **l’individu uniquement comme consommateur**, oubliant son rôle dans **la production collective**.  
 Pourtant, **avant d’accéder au marché**, chaque **Citoyen aura contribué** à la production de la Cité.  
@@ -652,7 +640,7 @@ Pourtant, **avant d’accéder au marché**, chaque **Citoyen aura contribué** 
 
 ---
 
-## 🛡️ **Contrôle de la Citoyenneté et Intégrité du Système**  
+### 🛡️ **Contrôle de la Citoyenneté et Intégrité du Système**  
 
 Certains craignent que, **sans paiement**, les commerçants **n’aient aucun intérêt à vérifier la Citoyenneté** de leurs clients.  
 
@@ -669,11 +657,11 @@ Certains craignent que, **sans paiement**, les commerçants **n’aient aucun in
 
 ---
 
-## ⚠️ **Critiques et Accusations de Contrôle Excessif**  
+### ⚠️ **Critiques et Accusations de Contrôle Excessif**  
 
-📌 **Les opposants dénonceront un contrôle informatique excessif, assimilant la Carte Civique à un outil de surveillance** *(62)*.  
+📌 **Les opposants dénonceront un contrôle informatique excessif, assimilant la Carte Civique à un outil de surveillance.**
 
-> 📖 *(62) Contrairement aux certificats de civisme de la Révolution française, la Carte Civique ne sera pas un document d’adhésion idéologique, mais un droit fondé sur la participation active.*  
+> 📖 *Contrairement aux certificats de civisme de la Révolution française, la Carte Civique ne sera pas un document d’adhésion idéologique, mais un droit fondé sur la participation active.*  
 
 📌 **Ce contrôle ne sera pas répressif** :  
 ➡️ L’informatique garantira simplement que **chaque individu remplit son rôle dans la Cité**.  
@@ -684,7 +672,7 @@ Certains craignent que, **sans paiement**, les commerçants **n’aient aucun in
 
 ---
 
-## 💡 **La Carte Civique : Un Outil d’Égalité, Non de Dictature**  
+### 💡 **La Carte Civique : Un Outil d’Égalité, Non de Dictature**  
 
 Certains compareront la **Carte Civique** à une **carte de crédit servant à surveiller les individus**.  
 
@@ -697,7 +685,7 @@ Pourtant, **les capitalistes évitent ce débat**, préférant critiquer **la Ca
 
 ---
 
-# 🏛️ **Citoyenneté et Nationalité : Une Distinction Nécessaire**  
+## 🏛️ **Citoyenneté et Nationalité : Une Distinction Nécessaire**  
 
 Autrefois confondues, **Citoyenneté** et **Nationalité** doivent être différenciées dans un monde où **les déplacements sont fréquents** et où les **nations restent divisées**.  
 
@@ -705,7 +693,7 @@ La **Cité** repose sur ses **Citoyens**, mais tous **ne s’y investissent pas 
 
 ---
 
-## 🇫🇷 **Nationalité : Un Engagement Volontaire**  
+### 🇫🇷 **Nationalité : Un Engagement Volontaire**  
 
 Ces **Droits et Devoirs spécifiques** relèvent de la **Nationalité**, distincte de la **Citoyenneté**.  
 
@@ -718,7 +706,7 @@ Ces **Droits et Devoirs spécifiques** relèvent de la **Nationalité**, distinc
 
 ---
 
-## 📜 **Conditions et Intégration**  
+### 📜 **Conditions et Intégration**  
 
 La **naturalisation**, soumise à conditions, impliquera des **Devoirs**.  
 
@@ -732,7 +720,7 @@ La **naturalisation**, soumise à conditions, impliquera des **Devoirs**.
 
 ---
 
-## ⚖️ **Un Engagement Solennel**  
+### ⚖️ **Un Engagement Solennel**  
 
 La **naturalisation**, validée par une **Commission locale**, se conclura par une **cérémonie collective**, où chaque **nouveau Français prêtera serment d’union et de fraternité**.  
 
@@ -747,7 +735,7 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 🏛️ **Droits et Devoirs Liés à la Nationalité**  
+### 🏛️ **Droits et Devoirs Liés à la Nationalité**  
 
 ✔️ **La Citoyenneté concerne l’économie** :  
 ➡️ Elle garantit **l’accès aux biens et services** via la **Carte civique**.  
@@ -757,7 +745,7 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 🗳️ **Droits Politiques et Nationalité**  
+### 🗳️ **Droits Politiques et Nationalité**  
 
 📌 **Les Droits politiques permettent aux Citoyens nationaux de participer aux lois.**  
 
@@ -774,21 +762,21 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 🎖️ **Service National : Devoir Fondamental des Citoyens Nationaux**  
+### 🎖️ **Service National : Devoir Fondamental des Citoyens Nationaux**  
 
 📌 **Les Droits politiques doivent être mérités par un engagement concret.**  
 ➡️ **La défense de la Cité en est la preuve ultime.**  
 
 ✔️ **En temps de paix**, cela prendra la forme **d’un Service National d’un an**, accessible à **tous** (*hommes et femmes*).  
 
-### 🔹 **Ce service comprendra plusieurs options :**  
+#### 🔹 **Ce service comprendra plusieurs options :**  
 1️⃣ **Militaire**  
 2️⃣ **Civil**  
 3️⃣ **Humanitaire**  
 
 📌 **Toutes incluront une formation militaire de base et aux premiers secours, sauf le Service humanitaire.**  
 
-✔️ **Après ce service**, le Citoyen national obtiendra ses **Droits politiques**, mais devra encore **consacrer 2 semaines par an pendant 15 ans** à une **Réserve locale** (*Cf. Part. II, chap. 1*).  
+✔️ **Après ce service**, le Citoyen national obtiendra ses **Droits politiques**, mais devra encore **consacrer 2 semaines par an pendant 15 ans** à une **Réserve locale**.  
 
 📌 **Tout manquement entraînera :**  
 ❌ **La perte des Droits politiques**  
@@ -799,7 +787,7 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 📖 **Autres Devoirs et Conditions de Naturalisation**  
+### 📖 **Autres Devoirs et Conditions de Naturalisation**  
 
 📌 **Les Citoyens nationaux pourront être appelés comme jurés.**  
 
@@ -812,19 +800,19 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 🛡️ **Citoyenneté et Nationalité : Distinction et Principes**  
+### 🛡️ **Citoyenneté et Nationalité : Distinction et Principes**  
 
 📌 **Tout individu participant à la Cité sera Citoyen, mais la Nationalité exigera un engagement plus profond.**  
 
 ✔️ **Un Citoyen jouira de ses Droits fondamentaux**, garantis par la **Carte civique**.  
 ✔️ **Les Citoyens nationaux auront accès à des Droits politiques et exclusifs.**  
 
-📖 *(74) L’immigration illégale n’existera pas : sans Carte civique, il sera impossible de travailler, mendier ou résider dans la Cité.*  
-📖 *(75) Les Citoyens nationaux auront des Devoirs et Droits particuliers, notamment politiques (*Cf. Part II, chap. 1 et 6*).*  
+>📖 *L’immigration illégale n’existera pas : sans Carte civique, il sera impossible de travailler, mendier ou résider dans la Cité.*  
+📖 *Les Citoyens nationaux auront des Devoirs et Droits particuliers, notamment politiques.*  
 
 ---
 
-## 📊 **Synthèse : Citoyenneté vs. Nationalité**  
+### 📊 **Synthèse : Citoyenneté vs. Nationalité**  
 
 1️⃣ **Citoyenneté =** économie et vie quotidienne.  
 1️⃣ **Nationalité =** politique et engagement.  
@@ -837,40 +825,36 @@ La **naturalisation**, validée par une **Commission locale**, se conclura par u
 
 ---
 
-## 🏅 **Naturalisation**  
+### 🏅 **Naturalisation**  
 
 ✔️ **Seuls les Citoyens remplissant les conditions pourront l’obtenir.**  
 ✔️ **Décision immédiate et sans appel d’une Commission locale.**  
-✔️ **Attribution exceptionnelle pour services rendus à la Nation ou à l’Humanité** *(76)*.  
+✔️ **Attribution exceptionnelle pour services rendus à la Nation ou à l’Humanité.**
 
-📖 *(76) Le Tribunal de l’Opinion Publique statuera sur ces cas (*Cf. Part II, chap. 1*).*  
+>📖 *Le Tribunal de l’Opinion Publique statuera sur ces cas.*  
 
 ---
 
-## 📜 **Droits et Devoirs Exclusifs des Citoyens Nationaux**  
+### 📜 **Droits et Devoirs Exclusifs des Citoyens Nationaux**  
 
 ✔️ **Service National obligatoire** (*1 an*), suivi de **15 ans de Réserve** (*2 semaines/an*).  
 ✔️ **Droits politiques uniquement après le Service National**.  
 ✔️ **Accès exclusif à l’occupation privée du sol** (*maisons, villas*).  
-✔️ **Interdiction de posséder un bien immobilier à l’étranger.** 🚀
-
----
-
-# 📜 **II. MESURES INDUITES ET AMÉNAGEMENTS NÉCESSAIRES**  
+✔️ **Interdiction de posséder un bien immobilier à l’étranger.**
 
 ---
 
 ## 1️⃣ **Le Cadre Politique**  
 
-La **Cité** repose sur les **lois naturelles de l’association politique**, définies par le **Contrat Social**. Son organisation nécessitera des **lois adaptées aux besoins des Citoyens**. Certaines pourront s’éloigner des **Principes fondamentaux**, mais une loi **contraire à la réalité** sera inapplicable et devra être révisée ou abrogée (*89*).  
+La **Cité** repose sur les **lois naturelles de l’association politique**, définies par le **Contrat Social**. Son organisation nécessitera des **lois adaptées aux besoins des Citoyens**. Certaines pourront s’éloigner des **Principes fondamentaux**, mais une loi **contraire à la réalité** sera inapplicable et devra être révisée ou abrogée.  
 
-> 📌 *(89) Une loi ne peut imposer l’Égalité sous un système monétaire, car l’inégalité découle de Largent, non des hommes.*  
+> 📌 *Une loi ne peut imposer l’Égalité sous un système monétaire, car l’inégalité découle de Largent, non des hommes.*  
 
 📌 **Seules les lois essentielles sont abordées ici.** D’autres seront adoptées **progressivement**. Il faut donc **définir qui fait les lois et comment elles sont adoptées**.  
 
 ---
 
-## ⚖️ **Qu’est-ce qu’une loi ?**  
+### ⚖️ **Qu’est-ce qu’une loi ?**  
 
 Une **loi** impose des **Devoirs** et reconnaît des **Droits** applicables à **tous**. Pour être **légitime**, elle doit être :  
 
@@ -878,22 +862,22 @@ Une **loi** impose des **Devoirs** et reconnaît des **Droits** applicables à *
 ✔️ **Approuvée par eux**  
 ✔️ **Appliquée équitablement**  
 
-📌 **L’unanimité étant impossible** (*90*), la **majorité exprime la volonté de la Cité**. Une loi reste en vigueur **jusqu’à ce qu’une nouvelle majorité décide de la modifier ou de l’abroger**.  
+📌 **L’unanimité étant impossible, la majorité exprime la volonté de la Cité**. Une loi reste en vigueur **jusqu’à ce qu’une nouvelle majorité décide de la modifier ou de l’abroger**.  
 
-> 📌 *(90) À Vanuatu, l’unanimité est recherchée, parfois au prix de plusieurs années de discussions (Bernard Werber, Encyclopédie du savoir relatif et absolu, 2000).*  
+> 📖 *À Vanuatu, l’unanimité est recherchée, parfois au prix de plusieurs années de discussions (Bernard Werber, Encyclopédie du savoir relatif et absolu, 2000).*  
 
 📌 Un Citoyen, parfois dans la majorité, parfois dans la minorité, **accepte les lois même s’il ne les soutient pas**, garantissant ainsi que **ses idées seront respectées quand la majorité changera**.  
 
 ---
 
-## 👥 **Qui peut légiférer ?**  
+### 👥 **Qui peut légiférer ?**  
 
 Les lois doivent **servir la Cité**, donc **seuls ceux qui vivent sous ses lois doivent les adopter**.  
 
 ✔️ **La Citoyenneté**, accessible à **tous ceux qui participent à la Cité**, ne garantit pas un engagement durable.  
-✔️ **Seuls les Citoyens nationaux**, assumant des **Devoirs supplémentaires**, auront donc le **Droit de cité**, leur permettant **d’influencer la législation** (*91*).  
+✔️ **Seuls les Citoyens nationaux**, assumant des **Devoirs supplémentaires**, auront donc le **Droit de cité**, leur permettant **d’influencer la législation.** 
 
-> 📌 *(91) Aujourd’hui, seuls les Français ont ce droit, bien que nationalité et Citoyenneté soient confondues. Certains le possèdent sans le mériter, tandis que des immigrés intégrés en sont exclus.*  
+> 📖 *Aujourd’hui, seuls les Français ont ce droit, bien que nationalité et Citoyenneté soient confondues. Certains le possèdent sans le mériter, tandis que des immigrés intégrés en sont exclus.*  
 
 ✔️ **La Nationalité** sera accessible **à tout Citoyen acceptant ses Devoirs**.  
 ✔️ **Ceux qui les refusent ne pourront prétendre aux Droits politiques.**  
@@ -902,7 +886,7 @@ Les lois doivent **servir la Cité**, donc **seuls ceux qui vivent sous ses lois
 
 ---
 
-## 📜 **Comment adopter une loi ?**  
+### 📜 **Comment adopter une loi ?**  
 
 📌 Une loi s’appliquant individuellement doit être **approuvée collectivement**.  
 ✔️ **En théorie**, elle devrait être adoptée **par référendum**, mais un **tel système quotidien est impraticable**.  
@@ -917,11 +901,11 @@ Toutefois, **le Contrat Social et la Constitution** seront **obligatoirement sou
 
 📌 **Adopter la Constitution par référendum implique l’acceptation du verdict des urnes.**  
 
-> 📌 *(92) Rousseau : « Habiter le territoire, c’est se soumettre à la souveraineté [...] La voix du plus grand nombre oblige toujours tous les autres » (Du Contrat Social, Livre IV, Chap. 2).*  
+> 📖 *Rousseau : « Habiter le territoire, c’est se soumettre à la souveraineté [...] La voix du plus grand nombre oblige toujours tous les autres » (Du Contrat Social, Livre IV, Chap. 2).*  
 
 ---
 
-## 🔍 **Que faire des abstentionnistes et des votes blancs ?**  
+### 🔍 **Que faire des abstentionnistes et des votes blancs ?**  
 
 📌 **La Cité n’interprétera ni les abstentions ni les votes blancs.**  
 
@@ -935,25 +919,25 @@ Toutefois, **le Contrat Social et la Constitution** seront **obligatoirement sou
 
 ---
 
-## 🏛️ **Qui rédige les lois ?**  
+### 🏛️ **Qui rédige les lois ?**  
 
 Une foule peut **ratifier une loi**, mais **pas la rédiger**.  
 ✔️ Cette tâche revient à des **élus mandatés** pour cela.  
 
-📌 Toutefois, **ces élus ne sont pas des représentants, mais des porte-parole du Peuple** (*93*).  
+📌 Toutefois, **ces élus ne sont pas des représentants, mais des porte-parole du Peuple.**
 
-> 📌 *(93) Rousseau : « La souveraineté ne peut être représentée [...] Les députés ne sont pas les représentants du Peuple, mais ses commissaires » (Du Contrat Social, Livre III, Chap. 15).*  
+> 📖 *Rousseau : « La souveraineté ne peut être représentée [...] Les députés ne sont pas les représentants du Peuple, mais ses commissaires » (Du Contrat Social, Livre III, Chap. 15).*  
 
 🚨 **Un élu doit appliquer son programme.**  
 ✔️ **S’il propose après l’élection des mesures différentes, son mandat devient une confiscation de la souveraineté populaire.**  
 
 📌 **Toute loi doit être ratifiée par le Peuple avant d’entrer en vigueur** (*94*).  
 
-> 📌 *(94) La Constitution de 1793, la plus démocratique jamais adoptée en France, imposait la ratification populaire des lois.*  
+> 📖 *La Constitution de 1793, la plus démocratique jamais adoptée en France, imposait la ratification populaire des lois.*  
 
 ---
 
-## 📩 **Un référendum pour chaque loi ?**  
+### 📩 **Un référendum pour chaque loi ?**  
 
 📌 **Idéalement, toutes les lois devraient être soumises au Peuple**, mais cela **n’est réaliste que pour les plus importantes**.  
 
@@ -962,13 +946,13 @@ Une foule peut **ratifier une loi**, mais **pas la rédiger**.
 
 📌 Ce groupe ne peut être **élu** (*sinon ce seraient des députés*) ni **nommé** (*ce qui favoriserait la corruption*).  
 
-📌 **La seule solution est le tirage au sort** (*95*), d’où la création du **Tribunal de l’Opinion Publique (T.O.P.)**, composé de **Censeurs chargés de valider ou rejeter les lois**.  
+📌 **La seule solution est le tirage au sort**, d’où la création du **Tribunal de l’Opinion Publique (T.O.P.)**, composé de **Censeurs chargés de valider ou rejeter les lois**.  
 
-> 📌 *(95) À Athènes, la majorité des fonctions publiques et les 500 membres du Conseil étaient désignés par tirage au sort, assurant ainsi une représentation honnête et populaire.*  
+> 📖 *À Athènes, la majorité des fonctions publiques et les 500 membres du Conseil étaient désignés par tirage au sort, assurant ainsi une représentation honnête et populaire.*  
 
 ---
 
-## 👨‍⚖️ **Le rôle des Censeurs**  
+### 👨‍⚖️ **Le rôle des Censeurs**  
 
 📌 **Les Censeurs**, tirés au sort dans chaque Département, seront **trois fois plus nombreux que les députés**.  
 
@@ -979,29 +963,29 @@ Une foule peut **ratifier une loi**, mais **pas la rédiger**.
 
 ---
 
-## ⚖️ **Un Contre-Pouvoir Essentiel : Le T.O.P.**  
+### ⚖️ **Un Contre-Pouvoir Essentiel : Le T.O.P.**  
 
 📌 **Le T.O.P. (Tribunal de l’Opinion Publique) ne se limite pas à la validation des lois. Il assure :**  
 
 ✔️ **L’interprétation exclusive de la Constitution**  
 ✔️ **La gestion des cas non prévus par la loi**  
 ✔️ **L’autorisation des grands chantiers**  
-✔️ **La ratification des traités internationaux** (*97*)  
-✔️ **La déclaration de guerre et la mobilisation des Citoyens** (*98*)  
+✔️ **La ratification des traités internationaux**
+✔️ **La déclaration de guerre et la mobilisation des Citoyens** 
 ✔️ **Le rôle de cour suprême en cas de litige constitutionnel**  
 
-📌 **Le T.O.P. empêche les élus, souvent déconnectés du Peuple, de confisquer le pouvoir** (*99*).  
+📌 **Le T.O.P. empêche les élus, souvent déconnectés du Peuple, de confisquer le pouvoir.** 
 
 ✔️ **Il garantit l’équilibre sans paralyser l’action publique.**  
-✔️ **Sans consensus du T.O.P., une loi est rejetée, évitant toute imposition sans consentement populaire.** 🚀  
+✔️ **Sans consensus du T.O.P., une loi est rejetée, évitant toute imposition sans consentement populaire.** 
 
 ---
 
-# 📜 **Cartes Spéciales : Enfants, Touristes et Entreprises**  
+## 📜 **Cartes Spéciales : Enfants, Touristes et Entreprises**  
 
 ---
 
-## 🎓 **Cartes Spéciales pour Enfants : Un Outil Éducatif et Social**  
+### 🎓 **Cartes Spéciales pour Enfants : Un Outil Éducatif et Social**  
 
 Dans la Cité, **la Carte civique est essentielle** pour accéder au marché. Cependant, les enfants, **non encore Citoyens**, sont pris en charge par leurs parents, responsables de leur protection et de leur autonomie future.  
 
@@ -1011,14 +995,14 @@ Dans la Cité, **la Carte civique est essentielle** pour accéder au marché. Ce
 
 ### 💳 **Un Pouvoir d’Achat Progressif**  
 
-Les **cartes enfants** leur fourniront un **pouvoir d’achat évolutif**, ajusté selon **l’âge et les besoins** (*105*).  
+Les **cartes enfants** leur fourniront un **pouvoir d’achat évolutif**, ajusté selon **l’âge et les besoins.**
 
 ✔️ **Transition progressive** évitant un passage brutal de la dépendance à l’indépendance.  
 ✔️ **Attribution dès 6 ans** (*Cours Préparatoire*), après validation du passage en classe supérieure.  
 ✔️ **Aucun droit n’est automatique** : la carte servira aussi à **motiver l’effort scolaire dès la première année**.  
 ✔️ **Tous les enfants d’un même niveau scolaire auront un pouvoir d’achat identique**, favorisant la réussite et l’estime de soi plutôt que les avantages matériels.  
 
-> 📌 *(105) Un achat effectué par un enfant a la même valeur que celui d’un adulte.*  
+> 📌 *Un achat effectué par un enfant a la même valeur que celui d’un adulte.*  
 
 ---
 
@@ -1050,7 +1034,7 @@ Les **besoins des enfants évoluant progressivement**, la Cité adoptera **cinq 
 
 ---
 
-## 🛂 **Cartes Spéciales pour Touristes et Entreprises**  
+### 🛂 **Cartes Spéciales pour Touristes et Entreprises**  
 
 ---
 
@@ -1089,7 +1073,7 @@ Bien que la Cité fonctionne **sans monnaie**, elle supporte des **coûts réels
 
 ---
 
-## 📜 **Résumé des Cartes Particulières**  
+### 📜 **Résumé des Cartes Particulières**  
 
 ---
 
@@ -1126,7 +1110,7 @@ Bien que la Cité fonctionne **sans monnaie**, elle supporte des **coûts réels
 
 ---
 
-# 📜 **Validation des Cartes Civiques : Principes et Conditions**  
+### 📜 **Validation des Cartes Civiques : Principes et Conditions**  
 
 La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et permet **l'accès au marché**. Sa validité repose sur **l’accomplissement des Devoirs** et **n’est jamais définitivement acquise**. Elle peut cependant être **renouvelée** selon plusieurs modes :  
 
@@ -1137,7 +1121,7 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-## 🛡️ **1. Validité Permanente**  
+### 🛡️ **1. Validité Permanente**  
 
 📌 Accordée aux **retraités et handicapés**, sauf en cas de **suspension de Citoyenneté**.  
 
@@ -1148,7 +1132,7 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-## ⚙️ **2. Validité Parallèle**  
+### ⚙️ **2. Validité Parallèle**  
 
 📌 Appliquée **automatiquement aux employés**.  
 
@@ -1158,7 +1142,7 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-## 🎨 **3. Validité Différée**  
+### 🎨 **3. Validité Différée**  
 
 📌 Destinée aux activités évaluées après coup, comme **les artistes et écrivains**.  
 
@@ -1177,7 +1161,7 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-## ⏳ **4. Validité Temporaire**  
+### ⏳ **4. Validité Temporaire**  
 
 📌 Accordée **avant réalisation** d’une **activité d’intérêt public**, pour une durée ajustable.  
 
@@ -1189,14 +1173,14 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-# 👨‍👩‍👧‍👦 **Validation des Cartes Civiques et Statut des Conjoints au Foyer**  
+### 👨‍👩‍👧‍👦 **Validation des Cartes Civiques et Statut des Conjoints au Foyer**  
 
 📌 Certains **rôles non professionnels** participent activement à la Cité (**élus, magistrats, militaires, pompiers, étudiants**).  
 📌 Les **conjoints au foyer** y contribuent également.  
 
 ---
 
-## 🏡 **1. Conjoints au Foyer et Participation à la Cité**  
+### 🏡 **1. Conjoints au Foyer et Participation à la Cité**  
 
 📌 L’éducation parentale étant **un service rendu à la Cité**, **un parent pourra être dispensé de Travail**, sous certaines conditions :  
 
@@ -1209,7 +1193,7 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-## ⚖️ **2. Cas Particuliers et Conditions d’Attribution**  
+### ⚖️ **2. Cas Particuliers et Conditions d’Attribution**  
 
 📌 **Cas spécifiques permettant une validation exceptionnelle** :  
 
@@ -1224,11 +1208,9 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 ---
 
-# 📜 **Résumé : Validation des Cartes Civiques**  
+### 📜 **Résumé : Validation des Cartes Civiques**  
 
----
-
-## 📌 **1️⃣ Modes de Validation**  
+### 📌 **1️⃣ Modes de Validation**  
 
 | 🏷️ **Mode de Validation** | 🏛️ **Bénéficiaires** |
 |----------------------|-----------------|
@@ -1237,18 +1219,16 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 | 🎨 **Différée** | Artistes (en fonction du succès et du temps consacré) |
 | ⏳ **Temporaire** | Citoyens en mission d’intérêt public |
 
----
 
-## 📌 **2️⃣ Citoyenneté et Obligations**  
+### 📌 **2️⃣ Citoyenneté et Obligations**  
 
 ✔️ Une **Carte civique valide atteste de la Citoyenneté** et de **la participation à la Cité**.  
 ✔️ Elle **n’exonère pas des autres Devoirs**.  
 
 📌 **L’accès au marché est un Droit, mais dépend de l’engagement actif du Citoyen.** 🚀  
 
----
 
-## 🎯 **Synthèse Visuelle**  
+### 🎯 **Synthèse Visuelle**  
 
 | 🎨 **Critère** | ✅ **Validation** |
 |-------------|----------------|
@@ -1262,13 +1242,15 @@ La **Carte civique**, strictement personnelle, atteste de la **Citoyenneté** et
 
 📌 **Chaque Citoyen est responsable de maintenir sa Carte civique active en contribuant à la Cité.**
 
-# 🏛️ **La Retraite et la Citoyenneté**  
+---
+
+## 🏛️ **La Retraite et la Citoyenneté**  
 
 La retraite garantit **l’Égalité en Droits** et motive les **Citoyens à remplir leurs Devoirs**.  
 
 ---
 
-## 📌 **1. Définition et Justification**  
+### 📌 **1. Définition et Justification**  
 
 La **retraite** dispense un Citoyen de participer activement à la Cité **après l’accomplissement de son Devoir**.  
 
@@ -1287,7 +1269,7 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 ---
 
-## 🕰️ **2. Accès à la Retraite : Temps de Participation Obligatoire**  
+### 🕰️ **2. Accès à la Retraite : Temps de Participation Obligatoire**  
 
 📌 La retraite est un **Droit mérité**, acquis après un **Temps Impératif de Participation (T.I.P.)** défini par la loi.  
 
@@ -1300,15 +1282,14 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 ---
 
-## 🔄 **3. Effets d’une Interruption de Citoyenneté**  
+### 🔄 **3. Effets d’une Interruption de Citoyenneté**  
 
 📌 **Une interruption volontaire ou involontaire** entraîne :  
 🔹 **Suspension de l’accumulation du Temps Positif** → retardant l’accès à la retraite.  
 🔹 En cas de **perte définitive de la Citoyenneté**, la question de la retraite ne se pose plus.  
 
----
 
-# ⚖️ **Sanction et Temps Négatif**  
+#### ⚖️ **Sanction et Temps Négatif**  
 
 📌 **Les Citoyens doivent participer à la vie de la Cité**. Leur **Carte civique est validée** **avant** qu’ils remplissent leur Devoir, mais la Cité pourra sanctionner ceux qui **s’y soustraient**.  
 
@@ -1317,9 +1298,7 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 📌 **Temps Effectif de Citoyenneté (T.E.C.)** = **Temps Positif - Temps Négatif**.  
 
----
-
-## 🔻 **Caractéristiques du Temps Négatif**  
+#### 🔻 **Caractéristiques du Temps Négatif**  
 
 ✔️ **Aucune perte de Droits** : Il **n’affecte ni la Carte civique ni l’accès au marché**, mais **prolonge la période des Devoirs**.  
 ✔️ **Un levier efficace** : Les **Citoyens évitant le Travail** devront **prolonger leur activité**, les incitant à **respecter leur Devoir**.  
@@ -1334,7 +1313,7 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 ---
 
-## 🏗️ **4. Travail et Retraite**  
+### 🏗️ **4. Travail et Retraite**  
 
 📌 **Les retraités sont dispensés de Travailler**, mais peuvent **exercer une activité s’ils le souhaitent**.  
 
@@ -1352,7 +1331,7 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 ---
 
-# 📜 **Résumé : La Retraite**  
+### 📜 **Résumé : La Retraite**  
 
 ✅ **Dispense de participation à la vie de la Cité**, tout en garantissant **les mêmes Droits que les actifs**.  
 ✅ **Carte civique permanente** pour les retraités.  
@@ -1365,9 +1344,8 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
    🔹 Ne seront pas soumis aux **obligations de résultats**.  
    🔹 Ne seront pas **comptabilisés dans le personnel des entreprises**.  
 
-📌 **La Cité assure une retraite juste et équilibrée, alignée sur la participation et le mérite.** 🚀
+📌 **La Cité assure une retraite juste et équilibrée, alignée sur la participation et le mérite.**
 
----
 
 ### 🎯 **Synthèse visuelle**  
 
@@ -1381,7 +1359,9 @@ La **retraite** dispense un Citoyen de participer activement à la Cité **aprè
 
 📌 **La Cité ne définit pas la retraite comme une fin, mais comme une récompense méritée par la participation.**
 
-# 🚀 **Le Chômage dans la Cité**  
+---
+
+## 🚀 **Le Chômage dans la Cité**  
 
 Dans la Cité, le **chômage capitaliste sera impossible** car :  
 
@@ -1390,7 +1370,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## 📌 **1. Le Plein Emploi Garanti**  
+### 📌 **1. Le Plein Emploi Garanti**  
 
 📌 Contrairement au capitalisme, où **l’emploi dépend des fluctuations économiques**, la **Carte civique garantira un pouvoir d’achat stable**, maintenant une **Demande supérieure à l’Offre** et assurant ainsi du **travail pour tous**.  
 
@@ -1398,7 +1378,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## 🔄 **2. Transition vers le Civisme et Disparition du Chômage**  
+### 🔄 **2. Transition vers le Civisme et Disparition du Chômage**  
 
 📌 **Avec l’abolition de Largent** :  
 
@@ -1408,7 +1388,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## ⚖️ **3. Différence avec le Capitalisme**  
+### ⚖️ **3. Différence avec le Capitalisme**  
 
 📌 **Le capitalisme tente de réduire le chômage** en :  
 🔹 Augmentant **artificiellement la Demande** (hausse des salaires, aides à l’embauche).  
@@ -1419,7 +1399,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## ⚙️ **4. Régulation de l’Emploi en Cas de Baisse de la Demande**  
+### ⚙️ **4. Régulation de l’Emploi en Cas de Baisse de la Demande**  
 
 📌 Si la Demande diminue, la Cité **adaptera les exigences des entreprises** plutôt que de licencier.  
 
@@ -1433,7 +1413,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## 🎭 **5. L’Essor du Secteur Tertiaire**  
+### 🎭 **5. L’Essor du Secteur Tertiaire**  
 
 📌 Même en cas de baisse de la Demande, les **services humains** (éducation, soins, culture) resteront **indispensables**.  
 
@@ -1441,32 +1421,25 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## 🔍 **6. Un Concept Différent du Chômage**  
+### 🔍 **6. Le Crédit de Temps Chômage (C.T.C.)**  
 
 📌 **Tout Citoyen devra participer à la Cité**.  
 📌 **En cas de licenciement ou démission**, il disposera d’un **Crédit de Temps Chômage (C.T.C.)**, maintenant **sa Citoyenneté et sa Carte civique valide**, sous conditions.  
 
----
 
-# 🛠️ **Le Crédit de Temps Chômage (C.T.C.)**  
-
-### 📅 **1. Durée et Conditions**  
+#### 📅 **1. Durée et Conditions**  
 
 ✔️ Tous les Citoyens disposeront d’un **C.T.C. identique**, défini par la Cité.  
 ✔️ Son utilisation générera du **Temps Négatif**, retardant **l’accès à la retraite**.  
 ✔️ Accessible uniquement **après 5 ans de participation**.  
 
----
-
-### 🔄 **2. Usage du C.T.C.**  
+#### 🔄 **2. Usage du C.T.C.**  
 
 ✔️ **Principalement destiné à la recherche d’emploi**, mais **utilisable librement**.  
 ✔️ **Encouragé à être économisé** pour des **imprévus** (faillite, licenciement, détention).  
 ✔️ **Non renouvelable** : Une fois épuisé, un Citoyen devra **retravailler pour conserver sa Citoyenneté**.  
 
----
-
-### 🚫 **3. Restrictions et Libertés**  
+#### 🚫 **3. Restrictions et Libertés**  
 
 ✔️ **Aucun contrôle de la Cité** sur son usage, sauf en cas de **suspension de Citoyenneté**.  
 ✔️ **Exemption du Service National** pendant cette période, avec **rattrapage ultérieur**.  
@@ -1474,7 +1447,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-## ⚖️ **7. Un Levier Contre le Chômage Involontaire**  
+### ⚖️ **7. Un Levier Contre le Chômage Involontaire**  
 
 📌 **Si la Demande baisse**, la Cité pourra :  
 
@@ -1485,7 +1458,7 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-# 📜 **Résumé : Le Chômage**  
+### 📜 **Résumé : Le Chômage**  
 
 ✔️ Chaque Citoyen disposera d’un **Crédit de Temps Chômage (C.T.C.)** **d’une durée égale pour tous**.  
 ✔️ **Le C.T.C. ne sera accessible qu’après 5 ans de Citoyenneté**.  
@@ -1495,7 +1468,6 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 ✔️ **Une fois épuisé, toute inactivité suspendra la Citoyenneté jusqu’à la reprise d’une activité**.  
 ✔️ **Durant le C.T.C., les Citoyens ne pourront pas accomplir leur Service National ni leurs semaines de Service**.  
 
----
 
 ### 🎯 **Synthèse visuelle**  
 
@@ -1511,13 +1483,18 @@ Dans la Cité, le **chômage capitaliste sera impossible** car :
 
 ---
 
-# 🏛️ **Les Commissions dans la Cité**  
+## 🏛️ **Les Commissions dans la Cité**  
 
 La Cité repose sur **l’Égalité**, garantie par **les Cartes civiques**, dont la gestion nécessitera **quatre types de Commissions**.  
 
+🏦 **1. Commissions des Cartes**  
+📜 **2. Commissions des Conventions** 
+🔄 **3. Commissions de Révision**  
+🛡️ **4. Commissions de Contrôle**  
+
 ---
 
-## 🏦 **1. Banques : Gestion des Cartes Civiques**  
+### 🏦 **Commissions des Cartes : Banques**  
 
 Bien que gérées comme des **entreprises**, elles proviendront des **anciennes banques capitalistes** et auront les responsabilités suivantes :  
 
@@ -1529,41 +1506,40 @@ Bien que gérées comme des **entreprises**, elles proviendront des **anciennes 
 📌 **Tout piratage sera considéré comme un acte terroriste.**  
 📌 Un **double des dossiers** sera conservé sur **papier** en cas de panne informatique.  
 
----
 
-## 📂 **2. Contenu des Dossiers Citoyens**  
+#### 📂 **Contenu des Dossiers Citoyens**  
 
 Chaque dossier regroupera **des informations essentielles** :  
 
-### 🔹 **Identité et Contact**  
+##### 🔹 **Identité et Contact**  
 📌 Nom, prénom(s), numéro matricule unique, empreintes digitales, photo, téléphone, e-mail.  
 
-### 🏡 **Situation Familiale et Logement**  
+##### 🏡 **Situation Familiale et Logement**  
 📌 Parents, conjoint, enfants (âge, scolarité), adresses des résidences.  
 
-### 🎓 **Parcours et Activité**  
+##### 🎓 **Parcours et Activité**  
 📌 Études, diplômes, professions, Temps Positif/Négatif, usage du Crédit de Temps Chômage (C.T.C.).  
 
-### 🏳️ **Citoyenneté et Nationalité**  
+##### 🏳️ **Citoyenneté et Nationalité**  
 📌 Date d’entrée dans la Cité, statut de Citoyenneté.  
 
-### 🎖️ **Engagement et Service National**  
+##### 🎖️ **Engagement et Service National**  
 📌 Service effectué, participation aux semaines de Service.  
 
-### 🏥 **Santé et Sécurité**  
+##### 🏥 **Santé et Sécurité**  
 📌 Groupe sanguin, antécédents médicaux (**consultables uniquement par le corps médical**).  
 
-### 🚗 **Mobilité et Consommation**  
+##### 🚗 **Mobilité et Consommation**  
 📌 Permis de conduire, véhicules, achat de voitures neuves.  
 
-### ✈️ **Voyages et Achats**  
+##### ✈️ **Voyages et Achats**  
 📌 Séjours à l’étranger, transactions avec la Carte civique, accès tiers aux données.  
 
 ---
 
-## 🔐 **3. Gestion et Sécurité des Données**  
+### 🔐 **Gestion et Sécurité des Données**  
 
-### 🔒 **Accès aux Dossiers Citoyens**  
+#### 🔒 **Accès aux Dossiers Citoyens**  
 
 ✔️ **Accès complet** : Banques, police, justice.  
 ✔️ **Accès restreint** : Entreprises et administrations, selon les besoins.  
@@ -1571,27 +1547,27 @@ Chaque dossier regroupera **des informations essentielles** :
 
 ---
 
-## 🏢 **4. Dossiers des Entreprises**  
+### 🏢 **Dossiers des Entreprises**  
 
 Chaque entreprise disposera d’un dossier comprenant :  
 
-### 📌 **Identité et Structure**  
+#### 📌 **Identité et Structure**  
 ✔️ Date de création, fondateur, dirigeants, locaux.  
 
-### 📋 **Ressources Humaines**  
+#### 📋 **Ressources Humaines**  
 ✔️ Effectifs, entrées/sorties des employés.  
 
-### ⚙️ **Approvisionnement et Production**  
+#### ⚙️ **Approvisionnement et Production**  
 ✔️ Fournitures utilisées, fournisseurs.  
 
-### 📊 **Résultats et Objectifs**  
+#### 📊 **Résultats et Objectifs**  
 ✔️ Nombre de ventes/services, productivité moyenne des employés.  
 
 📌 **Les sous-traitances disparaîtront** : toute structure servant une seule entreprise sera **intégrée à celle-ci**.  
 
 ---
 
-## 🔎 **5. Contrôle des Banques**  
+### 🔎 **Contrôle des Banques**  
 
 Bien que gérées comme des **entreprises**, les **Banques n’auront ni concurrence ni produits à vendre**.  
 
@@ -1599,7 +1575,7 @@ Bien que gérées comme des **entreprises**, les **Banques n’auront ni concurr
 
 ---
 
-## 📜 **6. Commissions des Conventions**  
+## 📜 **Commissions des Conventions**  
 
 Ces Commissions définiront **les résultats minimaux des entreprises** (**clients, ventes, services**), jouant un rôle similaire à l’**offre et la demande**.  
 
@@ -1607,14 +1583,14 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## 🎯 **7. Garanties pour les Entrepreneurs**  
+### 🎯 **Garanties pour les Entrepreneurs**  
 
 ✔️ **Trois tentatives** de création d’entreprise seront possibles **sans sanction**, sauf **en cas d’abus**.  
 ✔️ **La Cité n’évaluera pas la moralité des projets** (hors **illégalité**), mais **imposera des objectifs réalistes**.  
 
 ---
 
-## 🏗️ **8. Pas de Planification Économique**  
+### 🏗️ **Pas de Planification Économique**  
 
 📌 **La Cité ne dirigera pas l’économie**, mais fixera **un seuil d’activité** pour éviter **l’effondrement de la production**.  
 
@@ -1623,7 +1599,7 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## 🏛️ **9. Composition des Commissions des Conventions**  
+### 🏛️ **Composition des Commissions des Conventions**  
 
 ✔️ **Commissaires tirés au sort** parmi les Citoyens (**10 ans d’activité requis**).  
 ✔️ **Commissions décentralisées** pour **refléter les réalités locales**.  
@@ -1631,14 +1607,14 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## ⚖️ **10. Discipline et Responsabilité des Commissaires**  
+### ⚖️ **Discipline et Responsabilité des Commissaires**  
 
 ✔️ **Obligation de traiter tous les dossiers**, sous peine de **Temps Négatif**.  
 ✔️ **Surveillance par la Commission de Contrôle** pour **éviter abus et négligences**.  
 
 ---
 
-## ❌ **11. Problèmes des Commissaires Professionnels**  
+### ❌ **Problèmes des Commissaires Professionnels**  
 
 📌 **Les Commissaires ne seront pas spécialisés** pour éviter :  
 
@@ -1649,9 +1625,9 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## ⚠️ **12. Problèmes des Modes de Désignation**  
+### ⚠️ **Problèmes des Modes de Désignation**  
 
-### **Les Élections**  
+#### **Les Élections**  
 
 ❌ Favoriseraient **le clientélisme**.  
 ❌ Fatigueraient les électeurs avec **des scrutins multiples**.  
@@ -1664,7 +1640,7 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## 🏛️ **13. Nomination et Composition des Commissions**  
+### 🏛️ **Nomination et Composition des Commissions**  
 
 ✔️ Si les Commissaires étaient **nommés**, deux choix :  
 
@@ -1678,7 +1654,7 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## 🔄 **14. Commissions de Révision : Adaptation des Conventions**  
+### 🔄 **Commissions de Révision : Adaptation des Conventions**  
 
 📌 **Les objectifs des entreprises évolueront avec** :  
 
@@ -1689,7 +1665,7 @@ Ces Commissions définiront **les résultats minimaux des entreprises** (**clien
 
 ---
 
-## 🛡️ **15. Commissions de Contrôle : Garantie du Système**  
+### 🛡️ **Commissions de Contrôle : Garantie du Système**  
 
 Leur mission :  
 
@@ -1702,7 +1678,7 @@ Leur mission :
 
 ---
 
-## 🚨 **16. Sanctions et Surveillance des Commissions**  
+### 🚨 **Sanctions et Surveillance des Commissions**  
 
 📌 Les **Commissions seront collectivement responsables** et pourront sanctionner leurs membres en cas de :  
 
@@ -1714,17 +1690,35 @@ Leur mission :
 
 ---
 
-# 🏢 **Les Entreprises dans la Cité**  
+### 📜 **Résumé : Les Commissions dans la Cité**  
+
+#### 🏦 **1. Banques : Gestion des Cartes Civiques**  
+➡️ **Rôle** : Gestion des comptes, mise à jour des Cartes civiques et dossiers citoyens.  
+
+#### 📜 **2. Commissions des Conventions**  
+➡️ **Mission** : Définition des objectifs minimaux des entreprises (**clients, ventes, services**).  
+
+#### 🔄 **3. Commissions de Révision**  
+➡️ **But** : Adapter les **Conventions économiques** aux évolutions du marché.  
+
+#### 🛡️ **4. Commissions de Contrôle**  
+➡️ **Objectif** : **Garantir le respect du système** et contrôler les acteurs économiques.  
 
 ---
 
-## 📌 **Définition et Rôle des Entreprises**  
+
+
+## 🏢 **Les Entreprises dans la Cité**  
+
+---
+
+### 📌 **Définition et Rôle des Entreprises**  
 
 Les entreprises seront des **groupements de Citoyens** accomplissant leur **Devoir de participation** en **produisant des biens et services** pour la Cité. Elles garantiront ainsi leur **Citoyenneté** et seront **interdépendantes**, nécessitant une identification claire des employés pour établir les **Conventions**.  
 
 ---
 
-## 🔹 **Critères et Structure des Entreprises**  
+### 🔹 **Critères et Structure des Entreprises**  
 
 ✔️ **Diversité des clients** : Une entreprise devra avoir plusieurs clients et **ne pourra produire exclusivement pour une autre**, supprimant la sous-traitance abusive.  
 ✔️ **Flexibilité des contrats** : Certaines entreprises auront un client unique sur une **longue période** ou nécessiteront des distributeurs sans fusionner avec eux.  
@@ -1732,7 +1726,7 @@ Les entreprises seront des **groupements de Citoyens** accomplissant leur **Devo
 
 ---
 
-## 🏗️ **Biens Supports d’Entreprise (B.S.E.)**  
+### 🏗️ **Biens Supports d’Entreprise (B.S.E.)**  
 
 Certaines entreprises posséderont **des équipements spécifiques** (camions, bateaux, avions) nécessitant du personnel **intégré aux effectifs**.  
 
@@ -1740,14 +1734,14 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## 🏛️ **Création et Gestion d’une Entreprise**  
+### 🏛️ **Création et Gestion d’une Entreprise**  
 
 ✔️ Chaque Citoyen aura **trois tentatives** de création d’entreprise, sans restriction de secteur.  
 ✔️ **La Commission des Conventions** fixera des objectifs sans juger **la pertinence du projet**.  
 ✔️ **Le marché** déterminera la **viabilité** d’une entreprise selon son **nombre de clients**.  
 ✔️ **Les écoles seront aussi des entreprises**, les enseignants étant **évalués sur les résultats scolaires** selon un examen national.  
 
-### 📌 **Trois issues après la création**  
+#### 📌 **Trois issues après la création**  
 
 ❌ **1. Entreprise fictive ou non viable**  
 🔹 Fermeture immédiate en cas d’inaction, fraude ou échec manifeste.  
@@ -1762,7 +1756,7 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## 🎖️ **Statut du Créateur et du Chef d’Entreprise**  
+### 🎖️ **Statut du Créateur et du Chef d’Entreprise**  
 
 ✔️ Un **créateur** est reconnu une fois sa **Convention validée** et sa **carte professionnelle délivrée**.  
 ✔️ Il choisira **l’emplacement, le matériel et le personnel**.  
@@ -1770,14 +1764,14 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## 🏗️ **Entreprises Créées par la Cité**  
+### 🏗️ **Entreprises Créées par la Cité**  
 
 ✔️ En cas de **besoin urgent**, la Cité pourra **initier une entreprise** et **nommer un Directeur**.  
 ✔️ Ce dernier pourra être **remplacé**, contrairement au **créateur d’une entreprise privée**.  
 
 ---
 
-## 🏛️ **Durée de Vie et Gestion des Entreprises**  
+### 🏛️ **Durée de Vie et Gestion des Entreprises**  
 
 ✔️ Une entreprise **subsistera** jusqu’à sa **fusion, scission ou liquidation**, décidée par la **Cité ou ses employés**.  
 ✔️ **Délocalisations impossibles** : Une entreprise **n’est ni un bien transférable, ni un outil de profit**.  
@@ -1785,41 +1779,41 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## ⚖️ **Responsabilité Collective**  
+### ⚖️ **Responsabilité Collective**  
 
 ✔️ Les **entreprises seront seules responsables** devant la Cité.  
 ✔️ Elles **géreront leur personnel** et **assumeront collectivement** les **sanctions en cas d’échec**.  
 
 ---
 
-## 🔍 **Justice et Responsabilité des Employés**  
+### 🔍 **Justice et Responsabilité des Employés**  
 
-### 📌 **Contrôle et Participation au Travail**  
+#### 📌 **Contrôle et Participation au Travail**  
 
 ✔️ **Tous les Citoyens devront participer à la Cité**.  
 ✔️ **Les entreprises**, et non les employés individuellement, seront **soumis aux Conventions**.  
 ✔️ **Les entreprises géreront leur personnel**, la Cité **n’exigeant que des résultats globaux**.  
 
-### 📌 **Sanctions Collectives**  
+#### 📌 **Sanctions Collectives**  
 
 ✔️ Une entreprise en **échec** recevra du **Temps Négatif**.  
 ✔️ Ignorer les fautes reviendrait à **être complice**.  
 ✔️ Cette approche garantira une **surveillance mutuelle** et **limitera les contrôles extérieurs**.  
 
-### 📌 **Autogestion et Hiérarchie dans l’Entreprise**  
+#### 📌 **Autogestion et Hiérarchie dans l’Entreprise**  
 
 ✔️ **Les employés auront un droit de vote** après **un an d’ancienneté**.  
 ✔️ **Toute entrave à la liberté d’expression ou de réunion** sera passible d’**un an de détention**.  
 
 ---
 
-## 🔄 **Prise de Décision et Gestion des Conflits**  
+### 🔄 **Prise de Décision et Gestion des Conflits**  
 
 ✔️ Les décisions quotidiennes suivront une **hiérarchie**.  
 ✔️ Une décision injuste pourra être **contestée collectivement**.  
 ✔️ Un employé **incompétent ou perturbateur** pourra être **licencié après vote**.  
 
-### 📌 **Pouvoir de Licenciement et Embauche**  
+#### 📌 **Pouvoir de Licenciement et Embauche**  
 
 ✔️ Les employés pourront **renvoyer un collègue** par **décision collective**.  
 ✔️ Seule la **direction pourra embaucher**.  
@@ -1827,22 +1821,22 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## 💼 **Conditions de Travail et Reconnaissance Sociale**  
+### 💼 **Conditions de Travail et Reconnaissance Sociale**  
 
-### 📌 **Contrat et Durée du Travail**  
+#### 📌 **Contrat et Durée du Travail**  
 
 ✔️ **Le Contrat de Travail** définira les **Devoirs et Droits**, modifiables collectivement.  
 ✔️ **Tous les contrats seront affichés publiquement** pour garantir **transparence et équité**.  
 ✔️ **Les résultats conventionnels** seront basés sur **8h/jour, 5j/7**, mais les entreprises **géreront leurs horaires librement**.  
 
-### 📌 **Motivation Sociale Plutôt qu’Économique**  
+#### 📌 **Motivation Sociale Plutôt qu’Économique**  
 
 ✔️ **Reconnaissance publique** au lieu de **récompense financière**.  
 ✔️ L’**ambition sociale remplacera la course à l’enrichissement**.  
 
 ---
 
-## 🏅 **Distinctions et Motivation Sociale**  
+### 🏅 **Distinctions et Motivation Sociale**  
 
 ✔️ **Récompenses pour Citoyens et entrepreneurs méritants** :  
 
@@ -1854,7 +1848,7 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-## 📜 **Synthèse : Les Entreprises dans la Cité**  
+### 📜 **Synthèse : Les Entreprises dans la Cité**  
 
 1️⃣ Une entreprise **regroupera des Citoyens** produisant pour la Cité.  
 2️⃣ Les employés mettront **leur travail exclusivement sur le marché** via leur entreprise.  
@@ -1871,11 +1865,11 @@ Certaines entreprises posséderont **des équipements spécifiques** (camions, b
 
 ---
 
-# 🌍 **Échanges Internationaux Sans Monnaie**  
+## 🌍 **Échanges Internationaux Sans Monnaie**  
 
 ---
 
-## 🔄 **Gestion des Échanges Sans Monnaie**  
+### 🔄 **Gestion des Échanges Sans Monnaie**  
 
 Une **Cité sans monnaie** pourra commercer avec des pays utilisant une économie monétaire en **échangeant sa production contre des importations**. Grâce à l'absence de contrainte financière :  
 
@@ -1885,7 +1879,7 @@ Une **Cité sans monnaie** pourra commercer avec des pays utilisant une économi
 
 ---
 
-## 💰 **Financement des Importations**  
+### 💰 **Financement des Importations**  
 
 L’objectif principal est d’**obtenir des devises** via **les exportations**.  
 
@@ -1902,7 +1896,7 @@ L’objectif principal est d’**obtenir des devises** via **les exportations**.
 
 ---
 
-## 🏦 **Rôle des Banques Nationales**  
+### 🏦 **Rôle des Banques Nationales**  
 
 Les **Banques Nationales** seront des **intermédiaires obligatoires** pour le commerce international et géreront **les transactions des entreprises exportatrices et importatrices**.  
 
@@ -1922,7 +1916,7 @@ Les **Banques Nationales** seront des **intermédiaires obligatoires** pour le c
 
 ---
 
-## 🚫 **Prévention de la Corruption et des Trafics**  
+### 🚫 **Prévention de la Corruption et des Trafics**  
 
 La **Cité luttera activement contre la corruption** en **interdisant** :  
 ❌ La **possession de devises étrangères**.  
@@ -1937,7 +1931,7 @@ La **Cité luttera activement contre la corruption** en **interdisant** :
 
 ---
 
-## 📦 **Gestion des Importations et Ressources**  
+### 📦 **Gestion des Importations et Ressources**  
 
 ✔️ **Budget d’importation fixé annuellement**.  
 ✔️ **Seules les entreprises pourront importer** (les particuliers passeront **par elles**).  
@@ -1949,7 +1943,7 @@ La **Cité luttera activement contre la corruption** en **interdisant** :
 
 ---
 
-## 🛫 **Tourisme et Voyages Internationaux**  
+### 🛫 **Tourisme et Voyages Internationaux**  
 
 Les touristes **n’utiliseront pas de monnaie** dans la Cité. Deux solutions seront possibles :  
 
@@ -1970,21 +1964,21 @@ Chaque cas sera **régi par des accords internationaux**.
 
 ---
 
-## 🌎 **Échanges Entre Cités Non-Monétaires**  
+### 🌎 **Échanges Entre Cités Non-Monétaires**  
 
 Si d’autres pays adoptent **un modèle sans monnaie**, les échanges évolueront vers :  
 
 ✔️ **Libre circulation des biens et des personnes**.  
 ✔️ **Système de quotas régulant les échanges**.  
 
-📌 **Vers une fédération de Cités non-monétaires** 🌍  
+📌 **Vers une fédération de Cités non-monétaires**
 🔹 Une union entre ces pays **faciliterait les échanges et la mobilité**.  
 
 ---
 
-## 📌 **Résumé : Les Échanges Internationaux**  
+### 📌 **Résumé : Les Échanges Internationaux**  
 
-### 📦 **Exportations et Importations**  
+#### 📦 **Exportations et Importations**  
 
 ✔️ **Les exportations financeront** les importations et dépenses.  
 ✔️ **Les entreprises pourront exporter librement**.  
@@ -1993,7 +1987,7 @@ Si d’autres pays adoptent **un modèle sans monnaie**, les échanges évoluero
 ✔️ **Une part des bénéfices sera reversée au Trésor national**.  
 ✔️ **Les importations seront réglées par les Banques Nationales**.  
 
-### 🏦 **Rôle des Banques Nationales**  
+#### 🏦 **Rôle des Banques Nationales**  
 
 ✔️ **Intermédiaires uniques** pour les transactions internationales.  
 ✔️ **Entreprises privées évaluées sur leur performance**.  
@@ -2008,9 +2002,7 @@ Si d’autres pays adoptent **un modèle sans monnaie**, les échanges évoluero
 🔹 **10 ans de prison**.  
 🔹 **Bannissement à vie**.  
 
----
-
-### 🛂 **Circulation des Personnes**  
+#### 🛂 **Circulation des Personnes**  
 
 ✔️ **Déplacements internationaux soumis à accords bilatéraux**.  
 ✔️ **Touristes recevront une carte spéciale** avec accès illimité aux services.  
@@ -2020,16 +2012,9 @@ Si d’autres pays adoptent **un modèle sans monnaie**, les échanges évoluero
 
 ---
 
-💡 **Conclusion** :  
-Un système **sans monnaie** peut **fonctionner efficacement à l’international** grâce à des **échanges régulés** et **un Trésor national supervisé**. En supprimant **la spéculation et la corruption financière**, la Cité garantit **un commerce stable et équitable**, où **les ressources bénéficient à tous et non à une minorité**.
+## 🏡 **Accès au Logement et Gestion du Sol**  
 
----
-
-# 🏡 **Accès au Logement et Gestion du Sol**  
-
----
-
-## 🌍 **Principes Généraux**  
+### 🌍 **Principes Généraux**  
 
 Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attribué aux particuliers, aux entreprises ou aux collectivités**, mais **jamais cédé définitivement**.  
 
@@ -2039,17 +2024,17 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 ✔️ **L’attribution des terrains suit des critères précis**, pour assurer un **équilibre entre logement, infrastructures et préservation de l’environnement**.  
 
 📌 **Principales affectations du sol** :  
-1️⃣ **Espaces protégés** : forêts, plages, ruines. 🌿🏝️  
-2️⃣ **Champs et pâturages** : pour l’agriculture et l’élevage. 🌾🐄  
-3️⃣ **Voies et infrastructures publiques** : routes, ports, réseaux. 🚗🛤️  
-4️⃣ **Usines et industries** : nécessitant de vastes terrains. 🏭⚙️  
-5️⃣ **Édifices publics** : hôpitaux, écoles, casernes. 🏥🏫  
-6️⃣ **Immeubles** : logements, bureaux, commerces. 🏢🏬  
-7️⃣ **Maisons individuelles** : très demandées mais **limitées en fonction de l’espace disponible**. 🏡  
+1️⃣ **Espaces protégés** : forêts, plages, ruines. 
+2️⃣ **Champs et pâturages** : pour l’agriculture et l’élevage.
+3️⃣ **Voies et infrastructures publiques** : routes, ports, réseaux.
+4️⃣ **Usines et industries** : nécessitant de vastes terrains. 
+5️⃣ **Édifices publics** : hôpitaux, écoles, casernes.
+6️⃣ **Immeubles** : logements, bureaux, commerces.
+7️⃣ **Maisons individuelles** : très demandées mais **limitées en fonction de l’espace disponible**. 
 
 ---
 
-## 🏛️ **Politique Foncière et Attribution des Terrains**  
+### 🏛️ **Politique Foncière et Attribution des Terrains**  
 
 📌 **Gestion communale du sol** :  
 ✔️ **Les Communes géreront l’attribution des terrains**, sous la supervision du Gouvernement.  
@@ -2066,7 +2051,7 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 
 ---
 
-## 📋 **Gestion du Sol et Attribution des Parcelles**  
+### 📋 **Gestion du Sol et Attribution des Parcelles**  
 
 📌 **Trois niveaux de gestion** :  
 1️⃣ **Le Gouvernement** : décide des **projets nationaux** (infrastructures, protection environnementale).  
@@ -2097,7 +2082,7 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 
 ---
 
-## 🏗️ **Transition et Adaptation**  
+### 🏗️ **Transition et Adaptation**  
 
 📌 **Aucun bouleversement immédiat** pour les logements existants :  
 ✔️ **Suppression des loyers, charges et impôts** pour les occupants actuels.  
@@ -2110,7 +2095,7 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 
 ---
 
-## 🌾 **Héritages et Terres Agricoles**  
+### 🌾 **Héritages et Terres Agricoles**  
 
 📌 **Héritages** :  
 ✔️ **Autorisé**, sous réserve du respect des **limites foncières imposées**.  
@@ -2121,30 +2106,29 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 
 ---
 
-# 📌 **Résumé : Sol, Espace et Logement**  
+### 📌 **Résumé : Sol, Espace et Logement**  
 
----
 
-### 🏛️ **Gestion du sol**  
+#### 🏛️ **Gestion du sol**  
 
 ✔️ **Le sol appartient exclusivement à la Cité**, qui l’attribue selon **l’intérêt général**.  
 ✔️ **Sept catégories de parcelles** définies :  
-   1️⃣ **Espaces naturels protégés** (inconstructibles). 🌳🏝️  
-   2️⃣ **Champs et pâturages**. 🌾🐂  
-   3️⃣ **Voies de circulation**. 🚗🛤️  
-   4️⃣ **Usines et industries**. 🏭⚙️  
-   5️⃣ **Édifices publics et entreprises**. 🏫🏢  
-   6️⃣ **Immeubles résidentiels et commerciaux**. 🏬🏠  
-   7️⃣ **Maisons individuelles**. 🏡  
+   1️⃣ **Espaces naturels protégés** (inconstructibles).   
+   2️⃣ **Champs et pâturages**.  
+   3️⃣ **Voies de circulation**.  
+   4️⃣ **Usines et industries**. 
+   5️⃣ **Édifices publics et entreprises**.  
+   6️⃣ **Immeubles résidentiels et commerciaux**.  
+   7️⃣ **Maisons individuelles**.  
 
 ✔️ **Gestion foncière assurée par** :  
    - **Le Gouvernement** : décisions nationales.  
    - **Les Communes** : gestion locale.  
    - **La Commission Sol, Espace et Logement** : contrôle et validation des attributions.  
 
----
 
-### 📋 **Attribution des Parcelles**  
+
+#### 📋 **Attribution des Parcelles**  
 
 ✔️ **Commission Sol, Espace et Logement** :  
    - Présente dans chaque **Commune**.  
@@ -2154,9 +2138,8 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
    - **Registre actualisé** des **parcelles attribuées ou libres**.  
    - **Validation ou rejet des demandes** selon la loi.  
 
----
 
-### 🏠 **Droits Fonciers et Logement**  
+#### 🏠 **Droits Fonciers et Logement**  
 
 ✔️ **Tout Citoyen a droit à un logement** (**minimum 25 m²**).  
 ✔️ **Limites maximales de logements et terrains définies par la loi**.  
@@ -2168,19 +2151,14 @@ Dans la Cité, **le sol appartient à la collectivité**. Il peut être **attrib
 
 ---
 
-💡 **Conclusion** :  
-La **gestion du sol** et l’**accès au logement** sont pensés pour **garantir un habitat digne** à tous **sans spéculation immobilière**. La suppression de **l’immobilier locatif** et **la régulation des surfaces** permettront **une répartition équitable des ressources** et **une harmonisation des espaces urbains et ruraux**.
-
----
-
-# 🏛 **La Révolution et le Civisme**  
+### 🏛 **La Révolution et le Civisme**  
 
 > *« À l’échelle de l’Humanité, la Révolution est faite. À celle de l’Homme, il ne reste plus qu’à la faire. »*  
 
 Ces mots, qui ouvrent la théorie du **Civisme**, prennent aujourd’hui tout leur sens. La Révolution **n’est plus une utopie**, mais **une question de volonté et de temps**, rendue possible par deux avancées majeures :  
 
-🔹 **La production de masse** 🏭 → Garantissant **un pouvoir d’achat universel**.  
-🔹 **L’informatique** 💻 → Permettant **la Carte civique**, seul **moyen d’échange assurant l’Égalité** et supprimant **Largent**.  
+🔹 **La production de masse** → Garantissant **un pouvoir d’achat universel**.  
+🔹 **L’informatique** → Permettant **la Carte civique**, seul **moyen d’échange assurant l’Égalité** et supprimant **Largent**.  
 
 Les révolutionnaires du passé, bien que sincères, attribuaient **l’injustice à des causes superficielles** (égoïsme, propriété, corruption, religion, monnaie), sans voir que **la véritable source d’inégalité est Largent**.  
 
@@ -2190,7 +2168,7 @@ Les révolutionnaires du passé, bien que sincères, attribuaient **l’injustic
 
 ---
 
-## 📜 **Un Contrat Social pour une Cité Égalitaire**  
+### 📜 **Un Contrat Social pour une Cité Égalitaire**  
 
 Le **Civisme** propose **un Contrat Social clair**, approuvé par le **Peuple**, définissant **Devoirs et Droits sur la base de l’Égalité**.  
 
@@ -2215,22 +2193,22 @@ Le **Civisme** propose **un Contrat Social clair**, approuvé par le **Peuple**,
 
 ---
 
-## ⚖️ **Devoirs et Droits : une Nouvelle Hiérarchie**  
+### ⚖️ **Devoirs et Droits : une Nouvelle Hiérarchie**  
 
 Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, affirmant que **Devoirs et Droits** découlent **d’un acte volontaire d’association politique**.  
 
 📌 **Le Contrat Social repose sur quatre principes fondamentaux** :  
 
-🔹 **Égalité** ⚖️  
-🔹 **Solidarité** 🤝  
-🔹 **Sécurité** 🔒  
-🔹 **Liberté** 🕊️  
+🔹 **Égalité** 
+🔹 **Solidarité** 
+🔹 **Sécurité** 
+🔹 **Liberté** 
 
 💡 **Une révolution conceptuelle** : **le Droit d’accéder au marché devient fondamental**, car **l’inégalité d’accès au marché a toujours été la source de toutes les autres inégalités**.  
 
 ---
 
-## 📊 **Hiérarchisation des Devoirs et Droits**  
+### 📊 **Hiérarchisation des Devoirs et Droits**  
 
 ### **🔹 Devoirs**  
 
@@ -2248,35 +2226,35 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-## 🏠 **Propriété et Égalité**  
+### 🏠 **Propriété et Égalité**  
 
 📌 **Le Droit d’accéder au marché garantit l’égalité des opportunités**.  
 📌 **La Propriété est un droit particulier** sur **les biens acquis**, mais **ne confère pas un accès au marché** (contrairement à la monnaie).  
 
 ### 🔹 **Ce que le Civisme exclut de la propriété**  
 
-✔️ **Le sol et les ressources naturelles** 🌱🌍.  
-✔️ **Les êtres vivants** 🚫🐾.  
-✔️ **La propriété intellectuelle** 🚫📖.  
+✔️ **Le sol et les ressources naturelles**.  
+✔️ **Les êtres vivants**.  
+✔️ **La propriété intellectuelle** .  
 
 📌 **Les entreprises posséderont les moyens de production** car **les Citoyens n’ont aucun intérêt à acquérir des biens à usage collectif**.  
 📌 **Dans la Cité, la Propriété devient donc secondaire**.  
 
 ---
 
-## 🏛️ **Organisation Politique et Formation des Lois**  
+### 🏛️ **Organisation Politique et Formation des Lois**  
 
 📌 **Le Civisme propose** :  
 
-✔️ **Un Parlement** 🏛️ élu pour **cinq ans**, chargé d’élaborer les lois.  
-✔️ **Un Tribunal de l’Opinion Publique (T.O.P.)** ⚖️, composé de **Citoyens tirés au sort**, validant les lois **à la majorité des deux tiers** et surveillant le Gouvernement.  
-✔️ **Un Président** 🎩 élu pour **dix ans**, choisissant ses **Ministres**, sous **contrôle du T.O.P.**, qui nomme aussi **le Ministre de la Justice**.  
+✔️ **Un Parlement** élu pour **cinq ans**, chargé d’élaborer les lois.  
+✔️ **Un Tribunal de l’Opinion Publique (T.O.P.)**, composé de **Citoyens tirés au sort**, validant les lois **à la majorité des deux tiers** et surveillant le Gouvernement.  
+✔️ **Un Président** élu pour **dix ans**, choisissant ses **Ministres**, sous **contrôle du T.O.P.**, qui nomme aussi **le Ministre de la Justice**.  
 
 📌 **Ce système garantit la séparation des pouvoirs et la souveraineté populaire.**  
 
 ---
 
-## 💳 **Cartes et Citoyenneté**  
+### 💳 **Cartes et Citoyenneté**  
 
 📌 **Le Civisme prend en compte toutes les catégories de population** (enfants, étudiants, conjoints au foyer, chômeurs, retraités, touristes).  
 📌 **Les Cartes attestent la Citoyenneté et sont inutilisables hors des mains de leur titulaire**.  
@@ -2290,20 +2268,20 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-## 🛠️ **Gouvernance et Commissions**  
+### 🛠️ **Gouvernance et Commissions**  
 
 📌 **L’État sera réduit à l’essentiel**. Les décisions publiques seront confiées à **des Commissions locales**, composées de **Citoyens tirés au sort**.  
 
 📌 **Commissions principales** :  
 
-✔️ **Commissions des Cartes** 💳 (gestion des Banques de données).  
-✔️ **Commissions des Conventions, de Révision, de Contrôle et de Naturalisation** 📜.  
-✔️ **Commissions Sol, Espace et Logement** 🏡.  
+✔️ **Commissions des Cartes** (gestion des Banques de données).  
+✔️ **Commissions des Conventions, de Révision, de Contrôle et de Naturalisation**.  
+✔️ **Commissions Sol, Espace et Logement**.  
 
 ---
 
 
-# 🌎 **Commerce et Relations Internationales**  
+### 🌎 **Commerce et Relations Internationales**  
 
 📌 **Contrairement aux idées reçues, la Cité ne sera pas isolée.**  
 📌 **Sans utiliser de monnaie, elle pourra tout de même commercer, vendre ses produits et acheter à l’étranger.**  
@@ -2312,7 +2290,7 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-# 🏛 **Un Nouveau Système : Liberté sans Capitalisme**  
+### 🏛 **Un Nouveau Système : Liberté sans Capitalisme**  
 
 📌 **La Cité combinera dynamisme économique et justice sociale**, ressemblant à un **système capitalo-libéral**, tout en supprimant **les inégalités monétaires**.  
 
@@ -2327,29 +2305,29 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-# 🔥 **Une Révolution Intérieure : Conséquences de l’Égalité**  
+### 🔥 **Une Révolution Intérieure : Conséquences de l’Égalité**  
 
 📌 **Ceux qui adhèrent développeront ces idées, tandis que les sceptiques n’y verront qu’une utopie.**  
 
 ---
 
-# 🏛 **Un Nouvel État d’Esprit**  
+### 🏛 **Un Nouvel État d’Esprit**  
 
 📌 **L’Égalité renforcera civisme et patriotisme**.  
 📌 **Une Révolution ne peut aboutir sans fierté et engagement du peuple.**  
 
 ✅ **Les Citoyens comprendront que leurs Droits découlent de leurs Devoirs.**  
 ✅ **Ils redécouvriront les valeurs de :**  
-✔️ **Patrie** 🇫🇷  
-✔️ **Honneur** ⚜️  
-✔️ **Souveraineté** 🛡️  
-✔️ **Bien public** 🏛️  
+✔️ **Patrie** 
+✔️ **Honneur** 
+✔️ **Souveraineté** 
+✔️ **Bien public** 
 
-📜 *« Le patriotisme est à une nation ce que la sève est à un arbre. Sans lui, elle est un tronc mort et ses individus, des feuilles prêtes à être dispersées au moindre vent. »*  
+>📜 *« Le patriotisme est à une nation ce que la sève est à un arbre. Sans lui, elle est un tronc mort et ses individus, des feuilles prêtes à être dispersées au moindre vent. »*  
 
 ---
 
-# 🏢 **Conditions de Travail**  
+### 🏢 **Conditions de Travail**  
 
 📌 **Les entreprises et les sanctions collectives renforceront responsabilité individuelle et collective.**  
 
@@ -2361,7 +2339,7 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-# ⚙️ **Les Métiers Pénibles**  
+### ⚙️ **Les Métiers Pénibles**  
 
 📌 **La pénibilité dépend autant de sa perception que de ses conditions réelles.**  
 
@@ -2379,7 +2357,7 @@ Le **Civisme** rejette l’idée de **Droits naturels, divins ou monétaires**, 
 
 ---
 
-# 🎭 **Art et Culture**  
+### 🎭 **Art et Culture**  
 
 📌 **Avec un pouvoir d’achat élevé, les Citoyens exigeront qualité et esthétique, poussant la concurrence vers l’excellence.**  
 
@@ -2393,7 +2371,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# 🎓 **École et Instruction Publique**  
+### 🎓 **École et Instruction Publique**  
 
 📌 **Les enseignants seront des Travailleurs comme les autres, et les écoles, des entreprises avec des objectifs de réussite.**  
 
@@ -2405,7 +2383,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# ⚔️ **Armée et Défense**  
+### ⚔️ **Armée et Défense**  
 
 📌 **La Cité n’aura aucune ambition impérialiste**, mais nécessitera **une armée puissante et moderne pour garantir son indépendance et soutenir ses alliés.**  
 
@@ -2413,7 +2391,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# 🏙️ **Villes et Régions**  
+### 🏙️ **Villes et Régions**  
 
 📌 **La loi unifiera l’ensemble de la Cité.**  
 📌 **Sans contraintes budgétaires, communes et régions pourront réaliser immédiatement tous leurs projets.**  
@@ -2422,7 +2400,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# 🌾 **Le Monde Rural**  
+### 🌾 **Le Monde Rural**  
 
 📌 **Les agriculteurs et éleveurs seront protégés contre les aléas climatiques ou sanitaires, leurs Droits restant garantis.**  
 
@@ -2433,11 +2411,11 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 ✔️ **Création d’emplois et exode urbain encouragé**  
 ✔️ **Technologies modernes permettant le Travail à distance**  
 
-📌 **Les citadins attirés par la nature pourront Travailler à distance, sans nécessité de rester en ville.** 🚀  
+📌 **Les citadins attirés par la nature pourront Travailler à distance, sans nécessité de rester en ville.** 
 
 ---
 
-# 🌍 **Immigration et Intégration**  
+### 🌍 **Immigration et Intégration**  
 
 ### 🛡️ **Fondements de la Nation et Problèmes de l’Immigration**  
 
@@ -2448,7 +2426,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# 🚨 **Immigration et Révolution**  
+### 🚨 **Immigration et Révolution**  
 
 📌 **Un peuple prêt pour la Démocratie directe possède une culture politique avancée. Les immigrés la partagent-ils ? Probablement non.**  
 📌 **Une immigration massive détourne l’attention des enjeux nationaux et retarde la Révolution.**  
@@ -2459,7 +2437,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-# ⚖️ **Maîtrise de l’Immigration**  
+### ⚖️ **Maîtrise de l’Immigration**  
 
 📌 **La Cité contrôlera strictement l’immigration : vivre sans Carte civique sera impossible.**  
 
@@ -2469,11 +2447,7 @@ Dans la Cité, **le niveau général s’élèvera sans créer une société de 
 
 ---
 
-Voici une version améliorée avec une mise en page plus dynamique, une hiérarchisation visuelle optimisée et des icônes variées pour enrichir l’expérience de lecture :  
-
----
-
-# 📉 **Baisse de la Natalité et Retraites**  
+### 📉 **Baisse de la Natalité et Retraites**  
 
 📌 *« La baisse de natalité entraîne un vieillissement de la population, mais où est le problème ? »*  
 
@@ -2489,7 +2463,7 @@ Voici une version améliorée avec une mise en page plus dynamique, une hiérarc
 
 ---
 
-# 🏗 **Immigration et Besoin en Main-d’Œuvre** 
+### 🏗 **Immigration et Besoin en Main-d’Œuvre** 
 
 📌 **L’immigration résulte d’un déséquilibre :**  
 ✔️ **Un pays d’origine incapable de retenir sa population.**  
@@ -2517,7 +2491,7 @@ Voici une version améliorée avec une mise en page plus dynamique, une hiérarc
 
 ---
 
-# 🏛 **Laïcité et Culte**  
+### 🏛 **Laïcité et Culte**  
 
 📌 **La Cité sera une République laïque, sans reconnaissance de religion ni de vérité surnaturelle.**  
 
@@ -2529,7 +2503,7 @@ Voici une version améliorée avec une mise en page plus dynamique, une hiérarc
 
 ---
 
-# 💋 **Commerce du Sexe**  
+### 💋 **Commerce du Sexe**  
 
 📌 **La Citoyenneté repose sur une participation reconnue à la vie de la Cité.**  
 📌 **Il n’y a donc aucune raison d’exclure les professions liées au sexe, tant qu’elles répondent à une demande et respectent les Droits d’autrui.**  
@@ -2542,7 +2516,7 @@ Voici une version améliorée avec une mise en page plus dynamique, une hiérarc
 
 ---
 
-# 🏕 **Les Marginaux**  
+### 🏕 **Les Marginaux**  
 
 📌 **Que deviendront ceux qui refuseront la Citoyenneté ? Seront-ils exclus ou persécutés ?**  
 
@@ -2561,26 +2535,26 @@ Voici une version améliorée avec une mise en page plus dynamique, une hiérarc
 
 ---
 
-# 🚀 **Les Défis à Venir**  
+### 🚀 **Les Défis à Venir**  
 
 Après des siècles d’oppression et de gaspillage, **la Cité assurera la paix sociale**.  
 Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux défis** émergeront :  
 
-✅ **Propreté des villes** 🏙️  
-✅ **Préservation du patrimoine** 🏛️  
-✅ **Entretien des forêts et protection de l’environnement** 🌿  
-✅ **Lutte contre le gaspillage et recyclage** 🔄  
-✅ **Énergies durables et transports alternatifs** ⚡  
-✅ **Coopération avec le Sud** 🌍 (160)  
-✅ **Conquête de l’espace** 🚀  
+✅ **Propreté des villes** 
+✅ **Préservation du patrimoine** 
+✅ **Entretien des forêts et protection de l’environnement** 
+✅ **Lutte contre le gaspillage et recyclage** 
+✅ **Énergies durables et transports alternatifs** 
+✅ **Coopération avec le Sud**
+✅ **Conquête de l’espace** 
 
-📌 *(160) L’immigration est un fléau, non seulement pour les pays d’accueil, mais aussi pour les pays d’origine.*  
+📌 *L’immigration est un fléau, non seulement pour les pays d’accueil, mais aussi pour les pays d’origine.*  
 
-> **La différence ne résidera pas dans la nature des défis, mais dans la capacité de la Cité à les surmonter.**  
+> *La différence ne résidera pas dans la nature des défis, mais dans la capacité de la Cité à les surmonter.* 
 
 ---
 
-# 🌍 **Immigration et Développement des Pays d’Origine**  
+### 🌍 **Immigration et Développement des Pays d’Origine**  
 
 📌 **L’émigration massive prive les pays d’origine de leurs ressources humaines essentielles**, ralentissant leur développement et alimentant **un cercle vicieux de pauvreté**.  
 
@@ -2592,7 +2566,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🏛 **L’Occident Face à l’Immigration**  
+### 🏛 **L’Occident Face à l’Immigration**  
 
 📌 **L’Occident doit comprendre que** :  
 
@@ -2605,18 +2579,18 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🎯 **Que Faire ?**  
+### 🎯 **Que Faire ?**  
 
 ✅ **Réduire l’immigration au strict nécessaire.**  
 ✅ **Lutter contre l’immigration clandestine** *(sanctions pour passeurs et employeurs, expulsions systématiques).*  
 ✅ **Mettre en place une assimilation fondée sur le patriotisme.**  
 ✅ **Encourager les immigrés à retourner dans leur pays avec des opportunités réelles de développement.**  
 
-> **Objectif : Redonner espoir aux pays d’origine.**  
+> *Objectif : Redonner espoir aux pays d’origine.* 
 
 ---
 
-# 🤝 **Une Coopération Réelle avec les Pays Pauvres**  
+### 🤝 **Une Coopération Réelle avec les Pays Pauvres**  
 
 📌 **La Cité annulera la dette des pays pauvres** et mobilisera **les immigrés via des organismes communautaires**.  
 
@@ -2631,7 +2605,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🎖 **Le Rôle du Service National Humanitaire**  
+### 🎖 **Le Rôle du Service National Humanitaire**  
 
 📌 **Des Citoyens Français formeront des unités de réflexion et d’action** en coopération avec ces organismes.  
 
@@ -2646,7 +2620,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🔥 **Le Sens de l’Existence**  
+### 🔥 **Le Sens de l’Existence**  
 
 📌 **En instaurant l’Égalité et en libérant l’Homme de Largent, la Cité réalisera le rêve de toutes les générations passées.**  
 
@@ -2656,13 +2630,13 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 📌 **Délivrés des préoccupations matérielles, les Citoyens chercheront à se réaliser plutôt qu’à accumuler.**  
 📌 **Le mot d’ordre ne sera plus « Enrichissez-vous », mais « Réalisez-vous ».**  
 
-📌 **Les Citoyens, responsables de leur Société, affronteront les difficultés sans conflits d’intérêts ni contraintes budgétaires artificielles** (161).  
+📌 **Les Citoyens, responsables de leur Société, affronteront les difficultés sans conflits d’intérêts ni contraintes budgétaires artificielles**.  
 
-> 📌 *(161) À l’échelle individuelle, ces défis semblent immenses, mais qui peut mesurer le potentiel de millions d’êtres humains unis ? L’union engendre une force incommensurable.*  
+> 📌 *À l’échelle individuelle, ces défis semblent immenses, mais qui peut mesurer le potentiel de millions d’êtres humains unis ? L’union engendre une force incommensurable.*  
 
 ---
 
-# ⚖️ **L’Égalité : Utopie ou Nécessité ?**  
+### ⚖️ **L’Égalité : Utopie ou Nécessité ?**  
 
 📌 **L’Égalité dépend uniquement de la volonté des Hommes.**  
 
@@ -2681,7 +2655,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 💰 **Le Capitalisme Pave le Chemin Vers la Cité**  
+### 💰 **Le Capitalisme Pave le Chemin Vers la Cité**  
 
 📌 **Paradoxalement, le capitalisme évolue vers la Cité** :  
 
@@ -2702,7 +2676,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🇪🇺 **L’Europe : Obstacle ou Simple Gêne ?**  
+### 🇪🇺 **L’Europe : Obstacle ou Simple Gêne ?**  
 
 📌 **L’Europe n’est pas un frein, tout au plus un contretemps.**  
 
@@ -2710,13 +2684,13 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 ✔️ **2005 : NON français et néerlandais au référendum.**  
 ✔️ **2008 : Rejet du traité de Lisbonne par l’Irlande.**  
 
-> 📌 *(162) « La meilleure forteresse au monde est l’affection du peuple. » – Machiavel, *Le Prince*.*  
+> 📌 *« La meilleure forteresse au monde est l’affection du peuple. » – Machiavel, *Le Prince*.*  
 
 📌 **Si cette construction capitalo-libérale ne s’effondre pas d’elle-même, un pays pourra toujours la quitter pour bâtir la Cité.**  
 
 ---
 
-# 🇫🇷 **La France, Berceau de la Cité**  
+### 🇫🇷 **La France, Berceau de la Cité**  
 
 📌 **Tout indique que la Révolution aura lieu en France** :  
 
@@ -2729,7 +2703,7 @@ Les Citoyens n’auront plus à lutter pour leurs Droits, mais de **nouveaux dé
 
 ---
 
-# 🔥 **Français, Votre Heure Est Venue !**  
+### 🔥 **Français, Votre Heure Est Venue !**  
 
 🔥 **Que leur feu sacré nous consume à notre tour !**  
 🔥 **Que notre courage réponde à leurs sacrifices !**  
